@@ -1,0 +1,10 @@
+{
+    "elesis": {
+        "enabled": true,
+        "color": "#ff0000",
+        "title": "Elesis",
+        "passive-description": "123",
+        "s1-description": "456",
+        "s2-description": "789"
+    }
+}

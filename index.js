@@ -5,7 +5,12 @@ const { Client, Collection, Intents } = require('discord.js');
 const { token } = require('./security.json');
 
 // Create a new client instance
-const client = new Client({ intents: [Intents.FLAGS.GUILDS] });
+const client = new Client({
+	intents: [
+		Intents.FLAGS.GUILDS,
+		Intents.FLAGS.GUILD_MESSAGES,
+	],
+});
 
 
 // Attach commands property to client instance so it can be accessed from any other file =)
@@ -19,13 +24,14 @@ for (const file of commandFiles) {
 	// With the key as the command name and the value as the exported module
 	client.commands.set(command.data.name, command);
 }
+// console.log("command files: " + commandFiles);
 
 
 // Filters and retrieve all events files dynamically
 const eventFiles = fs.readdirSync('./src/events').filter(file => file.endsWith('.js'));
 
 for (const file of eventFiles) {
-	const event = require(`./events/${file}`);
+	const event = require(`./src/events/${file}`);
 	if (event.once) {
 		client.once(event.name, (...args) => event.execute(...args));
 	}
@@ -33,12 +39,28 @@ for (const file of eventFiles) {
 		client.on(event.name, (...args) => event.execute(...args));
 	}
 }
+// console.log("event files: " + eventFiles);
 
 
-// When the client is ready, run this code (only once)
-client.once('ready', () => {
-	console.log('Ready!');
+client.on('interactionCreate', async interaction => {
+	if (!interaction.isCommand()) return;
+
+	const command = client.commands.get(interaction.commandName);
+	// const { options } = interaction;
+
+	// If command does not exists, return
+	if (!command) return;
+
+	try {
+		await command.execute(interaction);
+	}
+	catch (error) {
+		console.error(error);
+		await interaction.reply({ content: 'There was an error while executing this command!', ephemeral: true });
+	}
 });
+
+
 
 // Login to Discord with your client's token
 client.login(token);
