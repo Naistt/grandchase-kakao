@@ -1,10 +1,45 @@
 {
     "elesis": {
-        "enabled": true,
+        "build": {
+            "sets": "→ **Power of Anger (Blue)** for general contents.\n→ **Spirit of Luck (Pink)** for World Boss.\n→ **Dagger of Passion (Orange)**(post CL20) for offensive role in PvP and/or WB.",
+            "traits": "→ **CDR + SDI**/Crit/SDR/BDR",
+            "accessories": "2 CDR / 1 CRIT with Purple or Orange",
+            "priority": {
+                "PvE": "Very High",
+                "PvP": "Medium",
+                "WB": "Very High"
+            },
+            "lb-skills": "**S2 + Passive** for general contents. **S1 + Passive** is an option for World Boss.",
+            "chaser-traits": {
+                "cl5": ":x::x::x::five:",
+                "cl10": ":x::x::five::x:",
+                "cl15": ":x::five::x::x:",
+                "cl20": ":three::heavy_multiplication_x::heavy_multiplication_x::two:"
+            }
+        },
         "color": "#ff0000",
-        "title": "Elesis",
-        "passive-description": "123",
-        "s1-description": "456",
-        "s2-description": "789"
+        "enabled": true,
+        "hero-banner": "https://static.wikia.nocookie.net/grandchase/images/9/99/SummerMemory.png/revision/latest/?cb=20191013100621",
+        "hero-description": "The Captain of the Ruby Knights & Grand Chase's Leader",
+        "hero-short-name": "Elesis",
+        "hero-thumbnail": "https://static.wikia.nocookie.net/grandchase/images/c/cb/IconHero-Elesis-Memory.png/revision/latest/?cb=20190906073722",
+        "last-update": "Apr. 28, 2022",
+        "lb": {
+            "passive-name": "[Upgraded] Dauntless Leader",
+            "passive-description": "*When a skill is used, allies' stats will increase*\nElesis was born with 'Leader's Qualities' and the ability of a 'Berserker'.\n\n[Leader's Qualities]\nWhen using skills, Elesis will continue to increase allies' stats. Allies' basic attack speed/attack damage increases by 4.5% (Max: 36%). This buff cannot be removed by enemy skills. When skill maximization occurs, for 10 seconds allies' basic attack speed increases by 100%. Each time a battle starts, the first skill will activate with maximizing the effect.\n\n[Berserker]\nWhen Elesis faces death, she becomes invincible for 3 seconds and recovers 20% HP while having her skill cooldown reset. HP can be recovered up to 24% of Elesis' battle power (40-second cooldown).",
+            "s1-name": "[Upgraded] Critical X",
+            "s1-description": "*Throw a Sword Energy and cancel enemies' attack and increase the damage taken by the enemies*\nThrow Sword Energy towards the targeted location and enemies within the path will be dealt with 147.6% of physical attack damage and charge rapidly to deal 369% of physical attack damage along with canceling the enemy's attack. Increase damage received by enemies by 30% for 10 seconds. ",
+            "s2-name": "[Upgraded] Mega Slash",
+            "s2-description": "*Apply a shield on your party members and gather the enemies to cancel their attack*\nAfter Elesis creates a shield (30% of maximum health) that lasts for 8 seconds on allies, she will jump into the fight and attack the enemies by slashing them consecutively to deal with 396% of physical attack damage, and then she will gather the enemies and cancel their attack. "
+        },
+        "passive-name": "Dauntless Leader",
+        "passive-description": "*When a skill is used, allies' stats will increase* \nElesis was born with 'Leader's Qualities' and the ability of a 'Berserker'.\n\n[Leader's Qualities] \nWhen using skills, Elesis will continue to increase allies' stats. Allies' basic attack speed/attack damage increases by 3% (Max: 30%). When skill maximization occurs, for 10 seconds allies' basic attack speed increases by 100%.\n\n[Berserker] \nWhen Elesis faces death, she becomes invincible for 3 seconds and recovers 20% HP while having her skill cooldown reset. HP can be recovered up to 24% of Elesis' battle power (40-second cooldown).",
+        "s1-name": "Critical X",
+        "s1-description": "*Throw a Sword Energy and cancel enemies' attack*\nThrow Sword Energy towards the targeted location and enemies within the path will be dealt with 123% of physical attack damage and after leaping into the airstrike down to deal 344.4% of physical attack damage along with canceling the enemy's attack.",
+        "s2-name": "Mega Slash",
+        "s2-description": "*Apply a shield on yourself and then charge attack*\nAfter Elesis creates a personal shield (30% of maximum health) that lasts for 8 seconds on herself, she will jump into the fight and attack the enemies by slashing them consecutively to deal 252% of physical attack damage, and then she will gather the enemies.",
+        "ss-name": "End of Heart",
+        "ss-description": "*Cut the enemies within range multiple times and then stun them*\nElesis will jump into the targeted area and attack by swinging her sword to deal with 1,360% of physical attack damage and stun the enemies for 5 seconds. After, for 10 seconds, she will increase the allies' basic attack speed by 100%. ",
+        "title": "Elesis Sieghart"
     }
 }
