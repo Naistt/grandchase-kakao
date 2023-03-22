@@ -17,7 +17,7 @@ module.exports = {
 		const iCurrentLevel = interaction.options.getInteger("current-level");
 		const iAimedLevel = interaction.options.getInteger("target-level");
 
-		if (iAimedLevel <= 480) {
+		if (iAimedLevel <= 520) {
 			if (iCurrentLevel > 0 && iCurrentLevel < iAimedLevel) {
 				iBovAmount = (iAimedLevel * iAimedLevel + iAimedLevel) - (iCurrentLevel * iCurrentLevel + iCurrentLevel);
 				await interaction.reply(`Amount of Blessings of Valor required from level ${iCurrentLevel} to level ${iAimedLevel} is ${iBovAmount}.`);
@@ -27,7 +27,7 @@ module.exports = {
 			}
 		}
 		else {
-			await interaction.reply(`The current max level is 480.`);
+			await interaction.reply(`The current max level is 520.`);
 		}
 		
 	},

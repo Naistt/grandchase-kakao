@@ -37,7 +37,7 @@ module.exports = {
 			.setThumbnail(chosenHero["hero-thumbnail"])
 			.setImage(chosenHero["hero-banner"])
 			.setTimestamp()
-			.setFooter({ text: 'Credits: Steam Mariestad#7547 \nLast updated on ' + chosenHero["last-update"], iconURL: interaction.user.displayAvatarURL() });
+			.setFooter({ text: 'Credits: Mariestad#0001 \nLast updated on ' + chosenHero["last-update"], iconURL: interaction.user.displayAvatarURL() });
 
 
 
