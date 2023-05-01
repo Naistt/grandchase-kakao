@@ -1,16 +1,21 @@
 const fs = require('node:fs');
 
 // Require the necessary discord.js classes
-const { Client, Collection, Intents } = require('discord.js');
+const { Client, Collection, GatewayIntentBits, Partials } = require('discord.js');
+
+
 const { token } = require('./security.json');
 
 // Create a new client instance
 const client = new Client({
 	intents: [
-		Intents.FLAGS.GUILDS,
-		Intents.FLAGS.GUILD_MESSAGES,
+		GatewayIntentBits.Guilds,
+		GatewayIntentBits.GuildMessages,
+		GatewayIntentBits.MessageContent,
 	],
+	partials: [Partials.Channel],
 });
+
 
 
 // Attach commands property to client instance so it can be accessed from any other file =)
@@ -24,8 +29,9 @@ for (const file of commandFiles) {
 	// With the key as the command name and the value as the exported module
 	client.commands.set(command.data.name, command);
 }
-// console.log("command files: " + commandFiles);
 
+// client.application.commands.set([])
+// console.log(client.commands);
 
 // Filters and retrieve all events files dynamically
 const eventFiles = fs.readdirSync('./src/events').filter(file => file.endsWith('.js'));
@@ -39,26 +45,6 @@ for (const file of eventFiles) {
 		client.on(event.name, (...args) => event.execute(...args));
 	}
 }
-// console.log("event files: " + eventFiles);
-
-
-client.on('interactionCreate', async interaction => {
-	if (!interaction.isCommand()) return;
-
-	const command = client.commands.get(interaction.commandName);
-	// const { options } = interaction;
-
-	// If command does not exists, return
-	if (!command) return;
-
-	try {
-		await command.execute(interaction);
-	}
-	catch (error) {
-		console.error(error);
-		await interaction.reply({ content: 'There was an error while executing this command!', ephemeral: true });
-	}
-});
 
 
 

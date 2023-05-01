@@ -1,0 +1,226 @@
+{
+    "elesis": {
+        "build": {
+            "sets": "→ **Power of Anger (Blue)** for general contents.\n→ **Spirit of Luck (Pink)** for World Boss.\n→ **Dagger of Passion (Orange)**(post CL20) for offensive role in PvP and/or WB.",
+            "traits": "→ **CDR + SDI**/Crit/SDR/BDR",
+            "accessories": "2 CDR / 1 CRIT with Purple or Orange",
+            "priority": {
+                "PvE": "Very High",
+                "PvP": "Medium",
+                "WB": "Very High"
+            },
+            "lb-skills": "**S2 + Passive** for general contents. **S1 + Passive** is an option for World Boss.",
+            "chaser-traits": {
+                "cl5": ":x::x::x::five:",
+                "cl10": ":x::x::five::x:",
+                "cl15": ":x::five::x::x:",
+                "cl20": ":three::heavy_multiplication_x::heavy_multiplication_x::two:"
+            }
+        },
+        "color": "#ff0000",
+        "enabled": true,
+        "hero-banner": "https://static.wikia.nocookie.net/grandchase/images/9/99/SummerMemory.png/revision/latest/?cb=20191013100621",
+        "hero-description": "The Captain of the Ruby Knights & Grand Chase's Leader",
+        "hero-short-name": "Elesis",
+        "hero-thumbnail": "https://static.wikia.nocookie.net/grandchase/images/c/cb/IconHero-Elesis-Memory.png/revision/latest/?cb=20190906073722",
+        "last-update": "Apr. 28, 2022",
+        "lb": {
+            "passive-name": "[Upgraded] Dauntless Leader",
+            "passive-description": "*When a skill is used, allies' stats will increase*\nElesis was born with 'Leader's Qualities' and the ability of a 'Berserker'.\n\n[Leader's Qualities]\nWhen using skills, Elesis will continue to increase allies' stats. Allies' basic attack speed/attack damage increases by 4.5% (Max: 36%). This buff cannot be removed by enemy skills. When skill maximization occurs, for 10 seconds allies' basic attack speed increases by 100%. Each time a battle starts, the first skill will activate with maximizing the effect.\n\n[Berserker]\nWhen Elesis faces death, she becomes invincible for 3 seconds and recovers 20% HP while having her skill cooldown reset. HP can be recovered up to 24% of Elesis' battle power (40-second cooldown).",
+            "s1-name": "[Upgraded] Critical X",
+            "s1-description": "*Throw a Sword Energy and cancel enemies' attack and increase the damage taken by the enemies*\nThrow Sword Energy towards the targeted location and enemies within the path will be dealt with 147.6% of physical attack damage and charge rapidly to deal 369% of physical attack damage along with canceling the enemy's attack. Increase damage received by enemies by 30% for 10 seconds. ",
+            "s2-name": "[Upgraded] Mega Slash",
+            "s2-description": "*Apply a shield on your party members and gather the enemies to cancel their attack*\nAfter Elesis creates a shield (30% of maximum health) that lasts for 8 seconds on allies, she will jump into the fight and attack the enemies by slashing them consecutively to deal with 396% of physical attack damage, and then she will gather the enemies and cancel their attack. "
+        },
+        "passive-name": "Dauntless Leader",
+        "passive-description": "*When a skill is used, allies' stats will increase* \nElesis was born with 'Leader's Qualities' and the ability of a 'Berserker'.\n\n[Leader's Qualities] \nWhen using skills, Elesis will continue to increase allies' stats. Allies' basic attack speed/attack damage increases by 3% (Max: 30%). When skill maximization occurs, for 10 seconds allies' basic attack speed increases by 100%.\n\n[Berserker] \nWhen Elesis faces death, she becomes invincible for 3 seconds and recovers 20% HP while having her skill cooldown reset. HP can be recovered up to 24% of Elesis' battle power (40-second cooldown).",
+        "s1-name": "Critical X",
+        "s1-description": "*Throw a Sword Energy and cancel enemies' attack*\nThrow Sword Energy towards the targeted location and enemies within the path will be dealt with 123% of physical attack damage and after leaping into the airstrike down to deal 344.4% of physical attack damage along with canceling the enemy's attack.",
+        "s2-name": "Mega Slash",
+        "s2-description": "*Apply a shield on yourself and then charge attack*\nAfter Elesis creates a personal shield (30% of maximum health) that lasts for 8 seconds on herself, she will jump into the fight and attack the enemies by slashing them consecutively to deal 252% of physical attack damage, and then she will gather the enemies.",
+        "ss-name": "End of Heart",
+        "ss-description": "*Cut the enemies within range multiple times and then stun them*\nElesis will jump into the targeted area and attack by swinging her sword to deal with 1,360% of physical attack damage and stun the enemies for 5 seconds. After, for 10 seconds, she will increase the allies' basic attack speed by 100%. ",
+        "title": "Elesis Sieghart"
+    },
+    "lire": {
+        "build": {
+            "sets": "→ **Vows of Violence (Green)** for general contents.\n→ **Dagger of Passion (Orange)** for World Boss.",
+            "traits": "→ **ASI/True Damage/BDI** + CDR/SDI",
+            "accessories": "2 ASI / 1 CRIT with Purple",
+            "priority": {
+                "PvE": "Low",
+                "PvP": "Very Low",
+                "WB": "Very High"
+            },
+            "lb-skills": "**S2 + Passive** for general scoring contents.",
+            "chaser-traits": {
+                "cl5": ":one::x::x::x:",
+                "cl10": ":four::x::x::x:",
+                "cl15": ":five::five::x::x:",
+                "cl20": ":three::heavy_multiplication_x::heavy_multiplication_x::two:"
+            }
+        },
+        "color": "#008000",
+        "enabled": true,
+        "hero-banner": "https://static.wikia.nocookie.net/grandchase/images/0/0b/GoldenSummerWeek_New.png/revision/latest/?cb=20190715102829",
+        "hero-description": "Eryuell Island's peace-loving elf.",
+        "hero-short-name": "Lire",
+        "hero-thumbnail": "https://static.wikia.nocookie.net/grandchase/images/3/31/IconHero-Lire-Summer.png/revision/latest/?cb=20190715154955",
+        "last-update": "May 14, 2022",
+        "lb": {
+            "passive-name": "[Upgraded] Innadril's Bow",
+            "passive-description": "*Using a basic attack will leave behind 'Innadril's Revengeful Spirit*\nUsing a basic attack will leave an 'Innadril's Revengeful Spirit' and 'Innadril's Mark' to an enemy for 5 seconds. Attacks an additional target with the highest HP that is nearby the targeted enemy. The attack leaves the same effect and deals the same damage to the targets.\n\n[Innadril's Revengeful Spirit Explosion]\nWhen an enemy has 5 stacks of 'Innadril's Revengeful Spirit', the spirits will explode and deal up to 15% of the enemy's max HP, and when it explodes, 'Innadril's Revengeful Spirit' doesn't disappear at 10% chance and can remain as 4 stacks (damage that is proportionate to enemy's max HP can deal up to 18% of Lire's battle power). After the explosion Lire will fire 2 arrows at a time during her basic attack for 5 seconds (each arrow will deal with 35% of the physical attack damage).\n\n[Innadril's Mark]\nIncreases the damage received from Lire by 4% (Max: 40%).",
+            "s1-name": "[Upgraded] Quick Shot",
+            "s1-description": "*Fire consecutive penetrating arrows at an enemy*\nLire attacks consecutively using penetrating arrows to deal 369.4% of physical attack damage and has a 50% chance to apply 'Innadril's Revengeful Spirit' on the enemy.\n\n[Additional Effect]\nWhen attacking with 'Quick Shot', the arrows that have been waiting on standby in 'Elf's Space' will fly towards the targeted location to deal additional attacks on the enemy for 280.3% of physical attack damage.",
+            "s2-name": "[Upgraded] Arrow Rain",
+            "s2-description": "*Attack using many arrows and create an 'Elf's Space'*\nLire fires very many arrows towards the targeted area that fall like rain on top of the enemies and deal 246% of physical attack damage. It also has a 50% chance to apply 'Innadril's Revengeful Spirit' to the enemy. For 15 seconds within the area where the arrows fell, an 'Elf's Space' is created.\n\n[Elf's Space]\nEnemies within 'Elf's Space' will have their movement speed reduced by 100% which then slowly recovers and 'Innadril's Revengeful Spirit' will increase by 1 each second and the arrows within the space do not disappear, but standby for Lire's next command."
+        },
+        "passive-name": "Innadril's Bow",
+        "passive-description": "*Using a basic attack will leave behind 'Innadril's Revengeful Spirit*\nUsing a basic attack will leave an 'Innadril's Revengeful Spirit' and 'Innadril's Mark' to an enemy for 5 seconds. Attacks an additional target with the highest HP that is nearby the targeted enemy. The attack leaves the same effect and deals the same damage to the targets.\n\n[Innadril's Revengeful Spirit Explosion]\nWhen an enemy has 5 stacks of 'Innadril's Revengeful Spirit', the spirits will explode and deal up to 12% of the enemy's max HP (damage that is proportionate to enemy's max HP can deal up to 14.4% of Lire's battle power). After the explosion Lire will fire 2 arrows at a time during her basic attack for 5 seconds (each arrow will deal with 35% of the physical attack damage).\n\n[Innadril's Mark]\nIncreases the damage received from Lire by 4% (Max: 40%).",
+        "s1-name": "Quick Shot",
+        "s1-description": "*Fire consecutive penetrating arrows at an enemy*\nLire attacks consecutively using penetrating arrows to deal 246% of physical attack damage and has a 50% chance to apply 'Innadril's Revengeful Spirit' on the enemy.\n\n[Additional Effect]\nWhen attacking with 'Quick Shot', the arrows that have been waiting on standby in 'Elf's Space' will fly towards the targeted location to deal additional attacks on the enemy for 147.6% of physical attack damage.",
+        "s2-name": "Arrow Rain",
+        "s2-description": "*Attack using many arrows and create an 'Elf's Space'*\nLire fires very many arrows towards the targeted area that fall like rain on top of the enemies and deal 209.1% of physical attack damage. It also has a 50% chance to apply 'Innadril's Revengeful Spirit' to the enemy. For 8 seconds within the area where the arrows fell, an 'Elf's Space' is created.\n\n[Elf's Space]\nEnemies within 'Elf's Space' will have their movement speed reduced by 100% which then slowly recovers and the arrows within the space do not disappear, but standby for Lire's next command.",
+        "ss-name": "Big Shot",
+        "ss-description": "*Fire a powerful penetrating arrow*\nFire a giant penetrating arrow towards a target that deals with 4,814% of physical attack damage and penetrated enemies will receive 560% of physical attack damage.",
+        "title": "Lire Eryuell"
+    },
+    "arme": {
+        "build": {
+            "sets": "→ **Vows of Violence (Green)** for general contents.\n→ **Dagger of Passion (Orange)** for World Boss.",
+            "traits": "→ **ASI/True Damage/BDI** + CDR/SDI",
+            "accessories": "2 ASI / 1 CRIT with Purple",
+            "priority": {
+                "PvE": "Low",
+                "PvP": "Very Low",
+                "WB": "Very High"
+            },
+            "lb-skills": "**S2 + Passive** for general scoring contents.",
+            "chaser-traits": {
+                "cl5": ":one::x::x::x:",
+                "cl10": ":four::x::x::x:",
+                "cl15": ":five::five::x::x:",
+                "cl20": ":three::heavy_multiplication_x::heavy_multiplication_x::two:"
+            }
+        },
+        "color": "#aa8ed3",
+        "enabled": true,
+        "hero-banner": "https://static.wikia.nocookie.net/grandchase/images/f/f3/BrideDarkness.png/revision/latest/?cb=20201106092714",
+        "hero-description": "Violet Mage guild's genius Magician.",
+        "hero-short-name": "Arme",
+        "hero-thumbnail": "https://static.wikia.nocookie.net/grandchase/images/8/87/IconHero-Arme-Darkness.png/revision/latest/?cb=20201105042523",
+        "last-update": "May 14, 2022",
+        "lb": {
+            "passive-name": "[Upgraded] Shockwave Force",
+            "passive-description": "*Using a basic attack will leave behind 'Innadril's Revengeful Spirit*\nUsing a basic attack will leave an 'Innadril's Revengeful Spirit' and 'Innadril's Mark' to an enemy for 5 seconds. Attacks an additional target with the highest HP that is nearby the targeted enemy. The attack leaves the same effect and deals the same damage to the targets.\n\n[Innadril's Revengeful Spirit Explosion]\nWhen an enemy has 5 stacks of 'Innadril's Revengeful Spirit', the spirits will explode and deal up to 15% of the enemy's max HP, and when it explodes, 'Innadril's Revengeful Spirit' doesn't disappear at 10% chance and can remain as 4 stacks (damage that is proportionate to enemy's max HP can deal up to 18% of Lire's battle power). After the explosion Lire will fire 2 arrows at a time during her basic attack for 5 seconds (each arrow will deal with 35% of the physical attack damage).\n\n[Innadril's Mark]\nIncreases the damage received from Lire by 4% (Max: 40%).",
+            "s1-name": "[Upgraded] Meteor",
+            "s1-description": "*Fire consecutive penetrating arrows at an enemy*\nLire attacks consecutively using penetrating arrows to deal 369.4% of physical attack damage and has a 50% chance to apply 'Innadril's Revengeful Spirit' on the enemy.\n\n[Additional Effect]\nWhen attacking with 'Quick Shot', the arrows that have been waiting on standby in 'Elf's Space' will fly towards the targeted location to deal additional attacks on the enemy for 280.3% of physical attack damage.",
+            "s2-name": "[Upgraded] Blizzard Storm",
+            "s2-description": "*Attack using many arrows and create an 'Elf's Space'*\nLire fires very many arrows towards the targeted area that fall like rain on top of the enemies and deal 246% of physical attack damage. It also has a 50% chance to apply 'Innadril's Revengeful Spirit' to the enemy. For 15 seconds within the area where the arrows fell, an 'Elf's Space' is created.\n\n[Elf's Space]\nEnemies within 'Elf's Space' will have their movement speed reduced by 100% which then slowly recovers and 'Innadril's Revengeful Spirit' will increase by 1 each second and the arrows within the space do not disappear, but standby for Lire's next command."
+        },
+        "passive-name": "Shockwave Force",
+        "passive-description": "*Using a basic attack will leave behind 'Innadril's Revengeful Spirit*\nUsing a basic attack will leave an 'Innadril's Revengeful Spirit' and 'Innadril's Mark' to an enemy for 5 seconds. Attacks an additional target with the highest HP that is nearby the targeted enemy. The attack leaves the same effect and deals the same damage to the targets.\n\n[Innadril's Revengeful Spirit Explosion]\nWhen an enemy has 5 stacks of 'Innadril's Revengeful Spirit', the spirits will explode and deal up to 12% of the enemy's max HP (damage that is proportionate to enemy's max HP can deal up to 14.4% of Lire's battle power). After the explosion Lire will fire 2 arrows at a time during her basic attack for 5 seconds (each arrow will deal with 35% of the physical attack damage).\n\n[Innadril's Mark]\nIncreases the damage received from Lire by 4% (Max: 40%).",
+        "s1-name": "Meteor",
+        "s1-description": "*Fire consecutive penetrating arrows at an enemy*\nLire attacks consecutively using penetrating arrows to deal 246% of physical attack damage and has a 50% chance to apply 'Innadril's Revengeful Spirit' on the enemy.\n\n[Additional Effect]\nWhen attacking with 'Quick Shot', the arrows that have been waiting on standby in 'Elf's Space' will fly towards the targeted location to deal additional attacks on the enemy for 147.6% of physical attack damage.",
+        "s2-name": "Blizzard Storm",
+        "s2-description": "*Attack using many arrows and create an 'Elf's Space'*\nLire fires very many arrows towards the targeted area that fall like rain on top of the enemies and deal 209.1% of physical attack damage. It also has a 50% chance to apply 'Innadril's Revengeful Spirit' to the enemy. For 8 seconds within the area where the arrows fell, an 'Elf's Space' is created.\n\n[Elf's Space]\nEnemies within 'Elf's Space' will have their movement speed reduced by 100% which then slowly recovers and the arrows within the space do not disappear, but standby for Lire's next command.",
+        "ss-name": "Planet Impact",
+        "ss-description": "*Fire a powerful penetrating arrow*\nFire a giant penetrating arrow towards a target that deals with 4,814% of physical attack damage and penetrated enemies will receive 560% of physical attack damage.",
+        "title": "Arme Glenstid"
+    },
+    "lass": {
+        "build": {
+            "sets": "→ **Dagger of Passion (Orange)** for general/PvP contents",
+            "traits": "→ **CRIT + SDI + CDR**",
+            "accessories": "2 CDR / 1 CRIT with Purple",
+            "priority": {
+                "PvE": "Medium",
+                "PvP": "Medium",
+                "WB": "Very High"
+            },
+            "lb-skills": "**S2 + Passive** for general.",
+            "chaser-traits": {
+                "cl5": ":five::x::x::x:",
+                "cl10": ":x::x::x::x:",
+                "cl15": ":five::five::x::x:",
+                "cl20": ":three::heavy_multiplication_x::heavy_multiplication_x::two:"
+            }
+        },
+        "color": "#0000ff",
+        "enabled": true,
+        "hero-banner": "https://static.wikia.nocookie.net/grandchase/images/0/0b/GreatPhantomThief.png/revision/latest/scale-to-width-down/370?cb=20210302031715",
+        "hero-description": "The silver Assassin with a dark past..",
+        "hero-short-name": "Lass",
+        "hero-thumbnail": "https://static.wikia.nocookie.net/grandchase/images/8/8a/IconHero-Lass-Literary.png/revision/latest?cb=20220310091932",
+        "last-update": "March 23, 2023",
+        "lb": {
+            "passive-name": "[Upgraded] Assassin's Instinct",
+            "passive-description": "*Increases allies' crit chance, upgrade basic attack*\nIf a critical hit occurs from a basic or skill attack, allies' crit chance increases by 20% for 10 seconds. For every 4 basic attacks, attacks 3 times consecutively and leave 'Assassin's Mark' for 8 seconds. 'Assassin's Mark' given by basic and skill attacks give consistent damage of 40% physical attack. Has no effect when there is a consistent purifying or invincibility effect.",
+            "s1-name": "[Upgraded] Rage Cutter",
+            "s1-description": "*Quickly charge then gather the enemies and slash them*\nLass will gather enemies as he quickly charges toward the targeted direction then slash them to deal 120% of physical attack damage and leave behind 'Assassin's Mark' for 8 seconds. After using the skill, he can use 'Fatal Fury Tempest' 1 time within 7 seconds without using SP.\n[Fatal Fury Tempest]\n Slash an enemy with blinding speed to deal with 260% of physical attack damage. After, he can deal an additional 510% of physical attack damage at a 35% chance of enemies hit.\n[Additional Effect]\nAfter using the skill, the basic attack damage that he receives will be reduced by 70% for 7 seconds. ",
+            "s2-name": "[Upgraded] Giga Slash",
+            "s2-description": "*Jump into the air and attack the enemy using the sword's energy*\nAfter jumping into the targeted location, shoots sword energy at the enemies and ignores the applied shield to deal 295.2% of physical attack damage. Also, enemies with 'Assassin's Mark' will receive 1.5x damage. When specific conditions for 'Giga Slash' are met, SP will not be consumed and within 5 seconds, 'Giga Slash' can be used once more. And if you deal damage to summoned beings using 'Giga Slash', summoned beings are removed immediately and if you deal a critical attack to enemies, allies' critical chance increases by 35% for 10 seconds.\n\n[Additional Use Conditions]\nAfter using 'Giga Slash', 20% chance to randomly use it once more. If a critical strike occurs when attacking with 'Giga Slash', 100% chance to use it again. "
+        },
+        "passive-name": "Assassin's Instinct",
+        "passive-description": "*Increases allies' crit chance, upgrade basic attack*\nIf a critical hit occurs from a basic or skill attack, allies' crit chance increases by 20% for 10 seconds. For every 4 basic attacks, attacks 3 times consecutively and leave 'Assassin's Mark' for 8 seconds.",
+        "s1-name": "Rage Cutter",
+        "s1-description": "*Quickly charge then gather the enemies and slash them*\nLass will gather enemies as he quickly charges toward the targeted direction then slash them to deal 120% of physical attack damage and leave behind 'Assassin's Mark' for 8 seconds.\n\n[Additional Effect]\nAfter using the skill, the basic attack damage that he receives will be reduced by 70% for 7 seconds. ",
+        "s2-name": "Giga Slash",
+        "s2-description": "*Jump into the air and attack the enemy using the sword's energy*\nAfter jumping into the targeted location, shoot sword energy at the enemies to deal 295.2% of physical attack damage. Also, enemies with 'Assassin's Mark' will receive 1.5x damage. When specific conditions for 'Giga Slash' are met, SP will not be consumed and within 5 seconds, 'Giga Slash' can be used once more.\n\n[Additional Use Conditions]\nAfter using 'Giga Slash', 20% chance to randomly use it once more. If a critical strike occurs when attacking with 'Giga Slash', 100% chance to use it again. ",
+        "ss-name": "Planet Impact",
+        "ss-description": "*Cast a power sword dance that shreds the ground in a targeted area*\nUsing quick movements and brilliant swordsmanship, Lass slashes the enemies in the targeted area as if to pulverize them and deals 1,208% of physical attack damage. Enemies hit, will receive increased damage by 45% for 15 seconds.",
+        "title": "Lass Isolet"
+    },
+    "exedel": {
+        "build": {
+            "sets": "Orange",
+            "enchantment": {
+                "white": "ATK FÍS",
+                "red": "CRIT",
+                "blue": "BASE ATK"
+            },
+            "level-traits": {
+                "1": "CRIT",
+                "2": "DANO_VERDADEIRO",
+                "3": "BASE_ATK",
+                "4": "VEL_ATK"
+            },
+            "transcend-traits": {
+                "1": "PODER_ILIM",
+                "2": "RECURSO_ILIM I",
+                "3": "RECURSO_ILIM II",
+                "4": "HAB_ILIM"
+            },
+            "accessories": {
+                "1": "SOL",
+                "2": "LAVA",
+                "3": "VENTANIA"
+            },
+            "acc-color": "ROXO",
+            "relic": "RANGER_CURSED",
+            "chaser-traits": {
+                "cl20": {
+                    "1": "FORCA_EXORBITANTE",
+                    "2": "SORTE_ABENCOADA",
+                    "3": "IMPETO",
+                    "4": "LACOS",
+                    "5": "CHASER_SKILL_1"
+                },
+                "cl25": {
+                    "1": "FORCA_EXORBITANTE",
+                    "2": "SORTE_ABENCOADA",
+                    "3": "IMPETO",
+                    "4": "LACOS",
+                    "5": "CHASER_SKILL_1"
+                }
+            },
+            "priority": {
+                "PvE": "Medium",
+                "PvP": "Medium",
+                "WB": "Very High"
+            },
+            "lb-skills": "",
+            "banner_id": "1"
+        }
+    }
+}
