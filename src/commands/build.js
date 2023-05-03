@@ -26,7 +26,9 @@ module.exports = {
 
 		// Array of possible choices
 		if (focusedOption.name === 'personagem') {
-			choices = ['exelesis', 'exarme', 'exlire', 'exronan', 'exmari', 'examy',
+			choices = ['elesis', 'mari', 'lapis', 'ronan', 'serdin',
+				'lire', 'harpe', 'lass', 'jin', 'rin',
+				'sol', 'exelesis', 'exarme', 'exlire', 'exronan', 'exmari', 'examy',
 				'exlime', 'exedel', 'exjin', 'exley', 'exharpe', 'exserdin',
 				'exsieghart'];
 		}
@@ -136,10 +138,46 @@ module.exports = {
 
 
 
-		// HABILIDADE APRIMORADA
-		// context.fillText("N/A", canvas.width / 1.50, canvas.height / 1.97);
-		// context.fillText("N/A", canvas.width / 1.20, canvas.height / 1.97);
-		// context.drawImage(ttTrait, 835, 400, 75, 75);
+		// HABILIDADE APRIMORADA PVE
+		arr = inputHero["build"]["lb-skills"];
+		const id = inputHero["build"]["banner_id"];
+		dx = 1000;
+
+		if (arr === undefined || arr === null) {
+			console.log(`${interaction.user.tag} has triggered ${interaction.message.content}: SEM LB`);
+		}
+		else {
+			for (let i = 1; i < Object.keys(arr).length + 1; i++) {
+				// console.log("ARR:" + arr[i]);
+				const lbSkill = await Canvas.loadImage(`./src/img/lb skills/${id}_${arr[i]}.png`);
+				
+				context.drawImage(lbSkill, dx, 395, 75, 75);
+				
+				
+				dx += 100;
+			}
+		}
+
+
+
+		// HABILIDADE APRIMORADA PVP
+		arr = inputHero["build"]["lb-skills-pvp"];
+		dx = 1290;
+
+		if (arr === undefined || arr === null) {
+			console.log(`erro: SEM LB`);
+		}
+		else {
+			for (let i = 1; i < Object.keys(arr).length + 1; i++) {
+				const lbSkill = await Canvas.loadImage(`./src/img/lb skills/${id}_${arr[i]}.png`);
+				
+				context.drawImage(lbSkill, dx, 395, 75, 75);
+				
+				
+				dx += 100;
+			}
+		}
+
 
 
 		// TRANSCENDANT TRAITS BLOCK
@@ -159,7 +197,6 @@ module.exports = {
 		// context.drawImage(ttTrait, 1175, 510, 75, 75);
 		// context.drawImage(ttTrait, 1275, 510, 75, 75);
 		// context.drawImage(ttTrait, 1375, 510, 75, 75);
-
 
 
 
