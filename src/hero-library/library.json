@@ -1,4 +1,64 @@
 {
+    "sol": {
+        "build": {
+            "sets": "Blue",
+            "enchantment": {
+                "white": "ATK FÍS",
+                "red": "CDR",
+                "blue": "AUM DANO H"
+            },
+            "level-traits": {
+                "1": "CDR",
+                "2": "SKILL_DMG_INC",
+                "3": "CRIT",
+                "4": "DANO_VERDADEIRO"
+            },
+            "transcend-traits": {
+                "1": "PODER_ILIM",
+                "2": "RECURSO_ILIM I",
+                "3": "RECURSO_ILIM II",
+                "4": "HAB_ILIM"
+            },
+            "chaser-traits": {
+                "cl20": {
+                    "1": "ORACAO_BENCAOS",
+                    "2": "SORTE_ABENCOADA",
+                    "3": "IMPETO",
+                    "4": "CHASER_SKILL_50",
+                    "5": "LACOS"
+                },
+                "cl25": {
+                    "1": "ORACAO_BENCAOS",
+                    "2": "SORTE_ABENCOADA",
+                    "3": "IMPETO",
+                    "4": "CHASER_SKILL_50",
+                    "5": "LACOS"
+                }
+            },
+            "accessories": {
+                "1": "SOL",
+                "2": "DISCIPLINA",
+                "3": "LEI"
+            },
+            "accessories-pvp": {
+                "1": "SOL",
+                "2": "DISCIPLINA",
+                "3": "LEI"
+            },
+            "acc-color": "ROXO",
+            "acc-pvp-color": "ROXO",
+            "relic": "ASSAULT_CURSED",
+            "relic-pvp": "ASSAULT_CURSED",
+            "priority": {
+                "PvE": "",
+                "PvP": "",
+                "WB": ""
+            },
+            "lb-skills": "",
+            "banner_id": "50"
+        },
+        "enabled": "true"
+    },
     "exelesis": {
         "build": {
             "sets": "Blue",
