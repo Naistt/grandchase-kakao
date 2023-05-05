@@ -28,6 +28,8 @@ module.exports = {
 		if (focusedOption.name === 'personagem') {
 			choices = ['elesis', 'mari', 'lapis', 'ronan', 'serdin',
 				'lire', 'harpe', 'lass', 'jin', 'rin',
+				'rufus', 'calisto', 'arme', 'zero', 'io',
+				'cindy', 'sieghart', 'asin', 'ley', 'kanavan',
 				'sol', 'exelesis', 'exarme', 'exlire', 'exronan', 'exmari', 'examy',
 				'exlime', 'exedel', 'exjin', 'exley', 'exharpe', 'exserdin',
 				'exsieghart'];
