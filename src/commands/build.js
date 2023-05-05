@@ -67,7 +67,7 @@ module.exports = {
 		
 	},			
 	async execute(interaction) {
-        // await interaction.deferReply();
+        await interaction.deferReply();
 
 		const rawHerodata = fs.readFileSync('./src/hero-library/library.json');
 		const heroDataJSON = JSON.parse(rawHerodata);
@@ -79,7 +79,7 @@ module.exports = {
 			return;
 		}
 
-		if (inputHero["enabled"] === undefined || inputHero["enabled"] === null || inputHero["enabled"] === false) {
+		if (inputHero["enabled"] === undefined || inputHero["enabled"] === null || inputHero["enabled"] === 'false') {
 			await interaction.reply({ content: 'Personagem desabilitado temporariamente.', ephemeral: true });
 			return;
 		}
@@ -143,8 +143,8 @@ module.exports = {
 		const id = inputHero["build"]["banner_id"];
 		dx = 1000;
 
-		if (arr === undefined || arr === null) {
-			console.log(`${interaction.user.tag} has triggered ${interaction.message.content}: SEM LB`);
+		if (arr === undefined || arr === null || arr === []) {
+			console.log(`erro: SEM LB`);
 		}
 		else {
 			for (let i = 1; i < Object.keys(arr).length + 1; i++) {
@@ -164,7 +164,7 @@ module.exports = {
 		arr = inputHero["build"]["lb-skills-pvp"];
 		dx = 1290;
 
-		if (arr === undefined || arr === null) {
+		if (arr === undefined || arr === null || arr === []) {
 			console.log(`erro: SEM LB`);
 		}
 		else {
@@ -320,6 +320,6 @@ module.exports = {
 		const attachment = new AttachmentBuilder(canvas.toBuffer('image/png'), { name: 'profile-image.png' });
 
         // await interaction.editReply(`@${interaction.user.tag}`);
-		await interaction.reply({ files: [attachment] });
+		await interaction.editReply({ files: [attachment] });
 	},
 };
