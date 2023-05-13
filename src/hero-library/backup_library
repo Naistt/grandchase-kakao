@@ -681,1008 +681,1008 @@
     },
     "rufus": {
         "build": {
-            "sets": "Orange",
+            "sets": "",
             "enchantment": {
-                "white": "ATK FÍS",
-                "red": "CRIT",
-                "blue": "BASE ATK"
+                "white": "",
+                "red": "",
+                "blue": ""
             },
             "level-traits": {
-                "1": "DANO_VERDADEIRO",
-                "2": "BASE_ATK",
-                "3": "VEL_ATK",
-                "4": "CRIT"
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": ""
             },
             "transcend-traits": {
-                "1": "HAB_ILIM",
+                "1": "",
                 "2": "RECURSO_ILIM I",
                 "3": "RECURSO_ILIM II",
-                "4": "PODER_ILIM"
+                "4": ""
             },
             "chaser-traits": {
                 "cl20": {
-                    "1": "FORCA_EXORBITANTE",
-                    "2": "ORACAO_BENCAOS",
-                    "3": "IMPETO",
-                    "4": "LACOS",
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
                     "5": "CHASER_SKILL_010"
                 },
                 "cl25": {
-                    "1": "FORCA_EXORBITANTE",
-                    "2": "ORACAO_BENCAOS",
-                    "3": "IMPETO",
-                    "4": "LACOS",
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
                     "5": "CHASER_SKILL_010"
                 }
             },
             "accessories": {
-                "1": "SOL",
-                "2": "LAVA",
-                "3": "VENTANIA"
+                "1": "",
+                "2": "DISCIPLINA",
+                "3": "LEI"
             },
             "accessories-pvp": {
-                "1": "SOL",
-                "2": "LAVA",
-                "3": "VENTANIA"
+                "1": "",
+                "2": "DISCIPLINA",
+                "3": "LEI"
             },
-            "acc-color": "roxo",
-            "acc-pvp-color": "roxo",
-            "relic": "RANGER_CURSED",
-            "relic-pvp": "RANGER_CURSED",
+            "acc-color": "",
+            "acc-pvp-color": "",
+            "relic": "",
+            "relic-pvp": "",
             "priority": {
                 "PvE": "",
                 "PvP": "",
                 "WB": ""
             },
             "lb-skills": {
-                "1": "S1",
-                "2": "passiva"
+                "1": "",
+                "2": ""
             },
             "lb-skills-pvp": {
-                "1": "S1",
-                "2": "passiva"
+                "1": "",
+                "2": ""
             },
             "banner_id": "010"
         },
-        "enabled": "true"
+        "enabled": "false"
     },
     "calisto": {
         "build": {
-            "sets": "Blue",
+            "sets": "",
             "enchantment": {
-                "white": "ATK FÍS",
-                "red": "CDR",
-                "blue": "AUM DANO H"
+                "white": "",
+                "red": "",
+                "blue": ""
             },
             "level-traits": {
-                "1": "DANO_VERDADEIRO",
-                "2": "CDR",
-                "3": "SKILL_DMG_INC",
-                "4": "CRIT"
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": ""
             },
             "transcend-traits": {
-                "1": "HAB_ILIM",
+                "1": "",
                 "2": "RECURSO_ILIM I",
                 "3": "RECURSO_ILIM II",
-                "4": "PODER_ILIM"
+                "4": ""
             },
             "chaser-traits": {
                 "cl20": {
-                    "1": "ORACAO_BENCAOS",
-                    "2": "SORTE_ABENCOADA",
-                    "3": "IMPETO",
-                    "4": "LACOS",
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
                     "5": "CHASER_SKILL_011"
                 },
                 "cl25": {
-                    "1": "ORACAO_BENCAOS",
-                    "2": "SORTE_ABENCOADA",
-                    "3": "IMPETO",
-                    "4": "LACOS",
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
                     "5": "CHASER_SKILL_011"
                 }
             },
             "accessories": {
-                "1": "SOL",
+                "1": "",
                 "2": "DISCIPLINA",
                 "3": "LEI"
             },
             "accessories-pvp": {
-                "1": "SOL",
+                "1": "",
                 "2": "DISCIPLINA",
                 "3": "LEI"
             },
-            "acc-color": "roxo",
-            "acc-pvp-color": "laranja",
-            "relic": "ASSAULT_CURSED",
-            "relic-pvp": "ASSAULT_CURSED",
+            "acc-color": "",
+            "acc-pvp-color": "",
+            "relic": "",
+            "relic-pvp": "",
             "priority": {
                 "PvE": "",
                 "PvP": "",
                 "WB": ""
             },
             "lb-skills": {
-                "1": "passiva",
-                "2": "S1"
+                "1": "",
+                "2": ""
             },
             "lb-skills-pvp": {
-                "1": "passiva",
-                "2": "S1"
+                "1": "",
+                "2": ""
             },
             "banner_id": "011"
         },
-        "enabled": "true"
+        "enabled": "false"
     },
     "arme": {
         "build": {
-            "sets": "Orange",
+            "sets": "",
             "enchantment": {
-                "white": "ATK MÁG",
-                "red": "CDR",
-                "blue": "AUM DANO H"
+                "white": "",
+                "red": "",
+                "blue": ""
             },
             "level-traits": {
-                "1": "DANO_VERDADEIRO",
-                "2": "CDR",
-                "3": "SKILL_DMG_INC",
-                "4": "CRIT"
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": ""
             },
             "transcend-traits": {
-                "1": "HAB_ILIM",
+                "1": "",
                 "2": "RECURSO_ILIM I",
                 "3": "RECURSO_ILIM II",
-                "4": "PODER_ILIM"
+                "4": ""
             },
             "chaser-traits": {
                 "cl20": {
-                    "1": "FORCA_EXORBITANTE",
-                    "2": "LACOS",
-                    "3": "IMPETO",
-                    "4": "CHASER_SKILL_012",
-                    "5": "SORTE_ABENCOADA"
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "CHASER_SKILL_012"
                 },
                 "cl25": {
-                    "1": "FORCA_EXORBITANTE",
-                    "2": "LACOS",
-                    "3": "IMPETO",
-                    "4": "CHASER_SKILL_012",
-                    "5": "SORTE_ABENCOADA"
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "CHASER_SKILL_012"
                 }
             },
             "accessories": {
-                "1": "SOL",
+                "1": "",
                 "2": "DISCIPLINA",
                 "3": "LEI"
             },
             "accessories-pvp": {
-                "1": "SOL",
+                "1": "",
                 "2": "DISCIPLINA",
                 "3": "LEI"
             },
-            "acc-color": "roxo",
-            "acc-pvp-color": "roxo",
-            "relic": "MAGE_CURSED",
-            "relic-pvp": "MAGE_CURSED",
+            "acc-color": "",
+            "acc-pvp-color": "",
+            "relic": "",
+            "relic-pvp": "",
             "priority": {
                 "PvE": "",
                 "PvP": "",
                 "WB": ""
             },
             "lb-skills": {
-                "1": "passiva",
-                "2": "S1"
+                "1": "",
+                "2": ""
             },
             "lb-skills-pvp": {
-                "1": "passiva",
-                "2": "S1"
+                "1": "",
+                "2": ""
             },
             "banner_id": "012"
         },
-        "enabled": "true"
+        "enabled": "false"
     },
     "zero": {
         "build": {
-            "sets": "Orange",
+            "sets": "",
             "enchantment": {
-                "white": "VIT MÁX",
-                "red": "CRIT",
-                "blue": "RED DANO H"
+                "white": "",
+                "red": "",
+                "blue": ""
             },
             "level-traits": {
-                "1": "RED_DANO_ATK_BASICO",
-                "2": "CDR",
-                "3": "CRIT",
-                "4": "RED_DANO_HAB"
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": ""
             },
             "transcend-traits": {
-                "1": "RESIST_HAB_ILIM",
+                "1": "",
                 "2": "RECURSO_ILIM I",
                 "3": "RECURSO_ILIM II",
-                "4": "DEFESA_PVP_ILIM"
+                "4": ""
             },
             "chaser-traits": {
                 "cl20": {
-                    "1": "ORACAO_BENCAOS",
-                    "2": "PROTECAO_DIVINA",
-                    "3": "IMPETO",
-                    "4": "CHASER_SKILL_013",
-                    "5": "VITALIDADE_TENAZ"
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "CHASER_SKILL_013"
                 },
                 "cl25": {
-                    "1": "ORACAO_BENCAOS",
-                    "2": "PROTECAO_DIVINA",
-                    "3": "IMPETO",
-                    "4": "CHASER_SKILL_013",
-                    "5": "VITALIDADE_TENAZ"
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "CHASER_SKILL_013"
                 }
             },
             "accessories": {
-                "1": "SOL",
-                "2": "LAVA",
+                "1": "",
+                "2": "DISCIPLINA",
                 "3": "LEI"
             },
             "accessories-pvp": {
-                "1": "SOL",
-                "2": "LAVA",
+                "1": "",
+                "2": "DISCIPLINA",
                 "3": "LEI"
             },
-            "acc-color": "azul",
-            "acc-pvp-color": "laranja",
-            "relic": "TANK_CURSED",
-            "relic-pvp": "TANK_CURSED",
+            "acc-color": "",
+            "acc-pvp-color": "",
+            "relic": "",
+            "relic-pvp": "",
             "priority": {
                 "PvE": "",
                 "PvP": "",
                 "WB": ""
             },
             "lb-skills": {
-                "1": "S1",
-                "2": "passiva"
+                "1": "",
+                "2": ""
             },
             "lb-skills-pvp": {
-                "1": "S1",
-                "2": "passiva"
+                "1": "",
+                "2": ""
             },
             "banner_id": "013"
         },
-        "enabled": "true"
+        "enabled": "false"
     },
     "io": {
         "build": {
-            "sets": "Orange",
+            "sets": "",
             "enchantment": {
-                "white": "ATK FÍS",
-                "red": "CRIT",
-                "blue": "BASE ATK"
+                "white": "",
+                "red": "",
+                "blue": ""
             },
             "level-traits": {
-                "1": "DANO_VERDADEIRO",
-                "2": "BASE_ATK",
-                "3": "VEL_ATK",
-                "4": "CRIT"
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": ""
             },
             "transcend-traits": {
-                "1": "HAB_ILIM",
+                "1": "",
                 "2": "RECURSO_ILIM I",
                 "3": "RECURSO_ILIM II",
-                "4": "PODER_ILIM"
+                "4": ""
             },
             "chaser-traits": {
                 "cl20": {
-                    "1": "FORCA_EXORBITANTE",
-                    "2": "ORACAO_BENCAOS",
-                    "3": "IMPETO",
-                    "4": "CHASER_SKILL_014",
-                    "5": "LACOS"
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "CHASER_SKILL_014"
                 },
                 "cl25": {
-                    "1": "FORCA_EXORBITANTE",
-                    "2": "ORACAO_BENCAOS",
-                    "3": "IMPETO",
-                    "4": "CHASER_SKILL_014",
-                    "5": "LACOS"
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "CHASER_SKILL_014"
                 }
             },
             "accessories": {
-                "1": "SOL",
-                "2": "LAVA",
-                "3": "VENTANIA"
+                "1": "",
+                "2": "DISCIPLINA",
+                "3": "LEI"
             },
             "accessories-pvp": {
-                "1": "SOL",
-                "2": "LAVA",
-                "3": "VENTANIA"
+                "1": "",
+                "2": "DISCIPLINA",
+                "3": "LEI"
             },
-            "acc-color": "roxo",
-            "acc-pvp-color": "roxo",
-            "relic": "RANGER_CURSED",
-            "relic-pvp": "RANGER_CURSED",
+            "acc-color": "",
+            "acc-pvp-color": "",
+            "relic": "",
+            "relic-pvp": "",
             "priority": {
                 "PvE": "",
                 "PvP": "",
                 "WB": ""
             },
             "lb-skills": {
-                "1": "S1",
-                "2": "passiva"
+                "1": "",
+                "2": ""
             },
             "lb-skills-pvp": {
-                "1": "S1",
-                "2": "passiva"
+                "1": "",
+                "2": ""
             },
             "banner_id": "014"
         },
-        "enabled": "true"
+        "enabled": "false"
     },
     "cindy": {
         "build": {
-            "sets": "Blue",
+            "sets": "",
             "enchantment": {
-                "white": "ATK MÁG",
-                "red": "CDR",
-                "blue": "AUM DANO H"
+                "white": "",
+                "red": "",
+                "blue": ""
             },
             "level-traits": {
-                "1": "CDR",
-                "2": "CRIT",
-                "3": "DANO_VERDADEIRO",
-                "4": "SKILL_DMG_INC"
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": ""
             },
             "transcend-traits": {
-                "1": "HAB_ILIM",
+                "1": "",
                 "2": "RECURSO_ILIM I",
                 "3": "RECURSO_ILIM II",
-                "4": "PODER_ILIM"
+                "4": ""
             },
             "chaser-traits": {
                 "cl20": {
-                    "1": "ORACAO_BENCAOS",
-                    "2": "SORTE_ABENCOADA",
-                    "3": "IMPETO",
-                    "4": "CHASER_SKILL_015",
-                    "5": "LACOS"
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "CHASER_SKILL_015"
                 },
                 "cl25": {
-                    "1": "ORACAO_BENCAOS",
-                    "2": "SORTE_ABENCOADA",
-                    "3": "IMPETO",
-                    "4": "CHASER_SKILL_015",
-                    "5": "LACOS"
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "CHASER_SKILL_015"
                 }
             },
             "accessories": {
-                "1": "SOL",
+                "1": "",
                 "2": "DISCIPLINA",
                 "3": "LEI"
             },
             "accessories-pvp": {
-                "1": "SOL",
+                "1": "",
                 "2": "DISCIPLINA",
                 "3": "LEI"
             },
-            "acc-color": "roxo",
-            "acc-pvp-color": "laranja",
-            "relic": "HEALER_CURSED",
-            "relic-pvp": "HEALER_CURSED",
+            "acc-color": "",
+            "acc-pvp-color": "",
+            "relic": "",
+            "relic-pvp": "",
             "priority": {
                 "PvE": "",
                 "PvP": "",
                 "WB": ""
             },
             "lb-skills": {
-                "1": "S1",
-                "2": "S2"
+                "1": "",
+                "2": ""
             },
             "lb-skills-pvp": {
-                "1": "S1",
-                "2": "S2"
+                "1": "",
+                "2": ""
             },
             "banner_id": "015"
         },
-        "enabled": "true"
+        "enabled": "false"
     },
     "sieghart": {
         "build": {
-            "sets": "Blue",
+            "sets": "",
             "enchantment": {
-                "white": "ATK FÍS",
-                "red": "CDR",
-                "blue": "RED DANO H"
+                "white": "",
+                "red": "",
+                "blue": ""
             },
             "level-traits": {
-                "1": "VEL_ATK",
-                "2": "CDR",
-                "3": "CRIT",
-                "4": "RED_DANO_HAB"
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": ""
             },
             "transcend-traits": {
-                "1": "RESIST_HAB_ILIM",
+                "1": "",
                 "2": "RECURSO_ILIM I",
                 "3": "RECURSO_ILIM II",
-                "4": "DEFESA_PVP_ILIM"
+                "4": ""
             },
             "chaser-traits": {
                 "cl20": {
-                    "1": "ORACAO_BENCAOS",
-                    "2": "IMPETO",
-                    "3": "LACOS",
-                    "4": "CHASER_SKILL_016",
-                    "5": "FORCA_EXORBITANTE"
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "CHASER_SKILL_016"
                 },
                 "cl25": {
-                    "1": "ORACAO_BENCAOS",
-                    "2": "IMPETO",
-                    "3": "LACOS",
-                    "4": "CHASER_SKILL_016",
-                    "5": "FORCA_EXORBITANTE"
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "CHASER_SKILL_016"
                 }
             },
             "accessories": {
-                "1": "CONGELANTE",
+                "1": "",
                 "2": "DISCIPLINA",
                 "3": "LEI"
             },
             "accessories-pvp": {
-                "1": "CONGELANTE",
+                "1": "",
                 "2": "DISCIPLINA",
                 "3": "LEI"
             },
-            "acc-color": "laranja",
-            "acc-pvp-color": "laranja",
-            "relic": "ASSAULT_BLAZING",
-            "relic-pvp": "ASSAULT_BLAZING",
+            "acc-color": "",
+            "acc-pvp-color": "",
+            "relic": "",
+            "relic-pvp": "",
             "priority": {
                 "PvE": "",
                 "PvP": "",
                 "WB": ""
             },
             "lb-skills": {
-                "1": "passiva",
-                "2": "S1"
+                "1": "",
+                "2": ""
             },
             "lb-skills-pvp": {
-                "1": "passiva",
-                "2": "S1"
+                "1": "",
+                "2": ""
             },
             "banner_id": "016"
         },
-        "enabled": "true"
+        "enabled": "false"
     },
     "asin": {
         "build": {
-            "sets": "Blue",
+            "sets": "",
             "enchantment": {
-                "white": "VIT MÁX",
-                "red": "CDR",
-                "blue": "RED DANO H"
+                "white": "",
+                "red": "",
+                "blue": ""
             },
             "level-traits": {
-                "1": "CURA_RECEBIDA",
-                "2": "CDR",
-                "3": "RED_DANO_ATK_BASICO",
-                "4": "RED_DANO_HAB"
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": ""
             },
             "transcend-traits": {
-                "1": "DEFESA_PVP_ILIM",
+                "1": "",
                 "2": "RECURSO_ILIM I",
                 "3": "RECURSO_ILIM II",
-                "4": "RESIST_HAB_ILIM"
+                "4": ""
             },
             "chaser-traits": {
                 "cl20": {
-                    "1": "ORACAO_BENCAOS",
-                    "2": "LACOS",
-                    "3": "IMPETO",
-                    "4": "CHASER_SKILL_017",
-                    "5": "PROTECAO_DIVINA"
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "CHASER_SKILL_017"
                 },
                 "cl25": {
-                    "1": "ORACAO_BENCAOS",
-                    "2": "LACOS",
-                    "3": "IMPETO",
-                    "4": "CHASER_SKILL_017",
-                    "5": "PROTECAO_DIVINA"
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "CHASER_SKILL_017"
                 }
             },
             "accessories": {
-                "1": "SOL",
+                "1": "",
                 "2": "DISCIPLINA",
                 "3": "LEI"
             },
             "accessories-pvp": {
-                "1": "CONGELANTE",
+                "1": "",
                 "2": "DISCIPLINA",
                 "3": "LEI"
             },
-            "acc-color": "azul",
-            "acc-pvp-color": "laranja",
-            "relic": "TANK_CURSED",
-            "relic-pvp": "TANK_CURSED",
+            "acc-color": "",
+            "acc-pvp-color": "",
+            "relic": "",
+            "relic-pvp": "",
             "priority": {
                 "PvE": "",
                 "PvP": "",
                 "WB": ""
             },
             "lb-skills": {
-                "1": "S2",
-                "2": "passiva"
+                "1": "",
+                "2": ""
             },
             "lb-skills-pvp": {
-                "1": "S2",
-                "2": "passiva"
+                "1": "",
+                "2": ""
             },
             "banner_id": "017"
         },
-        "enabled": "true"
+        "enabled": "false"
     },
     "ley": {
         "build": {
-            "sets": "Orange",
+            "sets": "",
             "enchantment": {
-                "white": "ATK MÁG",
-                "red": "CRIT",
-                "blue": "AUM DANO H"
+                "white": "",
+                "red": "",
+                "blue": ""
             },
             "level-traits": {
-                "1": "DANO_VERDADEIRO",
-                "2": "SKILL_DMG_INC",
-                "3": "VEL_ATK",
-                "4": "CRIT"
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": ""
             },
             "transcend-traits": {
-                "1": "HAB_ILIM",
+                "1": "",
                 "2": "RECURSO_ILIM I",
                 "3": "RECURSO_ILIM II",
-                "4": "PODER_ILIM"
+                "4": ""
             },
             "chaser-traits": {
                 "cl20": {
-                    "1": "FORCA_EXORBITANTE",
-                    "2": "LACOS",
-                    "3": "IMPETO",
-                    "4": "CHASER_SKILL_018",
-                    "5": "EXECUTOR_ASSIDUO"
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "CHASER_SKILL_018"
                 },
                 "cl25": {
-                    "1": "FORCA_EXORBITANTE",
-                    "2": "LACOS",
-                    "3": "IMPETO",
-                    "4": "CHASER_SKILL_018",
-                    "5": "EXECUTOR_ASSIDUO"
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "CHASER_SKILL_018"
                 }
             },
             "accessories": {
-                "1": "VENTO",
-                "2": "LAVA",
-                "3": "VENTANIA"
+                "1": "",
+                "2": "DISCIPLINA",
+                "3": "LEI"
             },
             "accessories-pvp": {
-                "1": "VENTO",
-                "2": "LAVA",
-                "3": "VENTANIA"
+                "1": "",
+                "2": "DISCIPLINA",
+                "3": "LEI"
             },
-            "acc-color": "roxo",
-            "acc-pvp-color": "roxo",
-            "relic": "MAGE_BLAZING",
-            "relic-pvp": "MAGE_BLAZING",
+            "acc-color": "",
+            "acc-pvp-color": "",
+            "relic": "",
+            "relic-pvp": "",
             "priority": {
                 "PvE": "",
                 "PvP": "",
                 "WB": ""
             },
             "lb-skills": {
-                "1": "S2",
-                "2": "passiva"
+                "1": "",
+                "2": ""
             },
             "lb-skills-pvp": {
-                "1": "S2",
-                "2": "passiva"
+                "1": "",
+                "2": ""
             },
             "banner_id": "018"
         },
-        "enabled": "true"
+        "enabled": "false"
     },
     "kanavan": {
         "build": {
-            "sets": "Orange",
+            "sets": "",
             "enchantment": {
-                "white": "ATK FÍS",
-                "red": "CRIT",
-                "blue": "AUM DANO H"
+                "white": "",
+                "red": "",
+                "blue": ""
             },
             "level-traits": {
-                "1": "DANO_VERDADEIRO",
-                "2": "VEL_ATK",
-                "3": "SKILL_DMG_INC",
-                "4": "CRIT"
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": ""
             },
             "transcend-traits": {
-                "1": "HAB_ILIM",
+                "1": "",
                 "2": "RECURSO_ILIM I",
                 "3": "RECURSO_ILIM II",
-                "4": "PODER_ILIM"
+                "4": ""
             },
             "chaser-traits": {
                 "cl20": {
-                    "1": "FORCA_EXORBITANTE",
-                    "2": "IMPETO",
-                    "3": "LACOS",
-                    "4": "CHASER_SKILL_019",
-                    "5": "SORTE_ABENCOADA"
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "CHASER_SKILL_019"
                 },
                 "cl25": {
-                    "1": "FORCA_EXORBITANTE",
-                    "2": "IMPETO",
-                    "3": "LACOS",
-                    "4": "CHASER_SKILL_019",
-                    "5": "SORTE_ABENCOADA"
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "CHASER_SKILL_019"
                 }
             },
             "accessories": {
-                "1": "SOL",
-                "2": "LAVA",
-                "3": "VENTANIA"
-            },
-            "accessories-pvp": {
-                "1": "SOL",
+                "1": "",
                 "2": "DISCIPLINA",
                 "3": "LEI"
             },
-            "acc-color": "roxo",
-            "acc-pvp-color": "laranja",
-            "relic": "ASSAULT_BLAZING",
-            "relic-pvp": "ASSAULT_CURSED",
+            "accessories-pvp": {
+                "1": "",
+                "2": "DISCIPLINA",
+                "3": "LEI"
+            },
+            "acc-color": "",
+            "acc-pvp-color": "",
+            "relic": "",
+            "relic-pvp": "",
             "priority": {
                 "PvE": "",
                 "PvP": "",
                 "WB": ""
             },
             "lb-skills": {
-                "1": "S2",
-                "2": "passiva"
+                "1": "",
+                "2": ""
             },
             "lb-skills-pvp": {
-                "1": "S2",
-                "2": "passiva"
+                "1": "",
+                "2": ""
             },
             "banner_id": "019"
         },
-        "enabled": "true"
+        "enabled": "false"
     },
     "lime": {
         "build": {
-            "sets": "Blue",
+            "sets": "",
             "enchantment": {
-                "white": "ATK MÁG",
-                "red": "CDR",
-                "blue": "RED DANO H"
+                "white": "",
+                "red": "",
+                "blue": ""
             },
             "level-traits": {
-                "1": "RED_DANO_ATK_BASICO",
-                "2": "RED_DANO_HAB",
-                "3": "CDR",
-                "4": "SKILL_DMG_INC"
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": ""
             },
             "transcend-traits": {
-                "1": "DEFESA_PVP_ILIM",
+                "1": "",
                 "2": "RECURSO_ILIM I",
                 "3": "RECURSO_ILIM II",
-                "4": "RESIST_HAB_ILIM"
+                "4": ""
             },
             "chaser-traits": {
                 "cl20": {
-                    "1": "ORACAO_BENCAOS",
-                    "2": "VITALIDADE_TENAZ",
-                    "3": "IMPETO",
-                    "4": "CHASER_SKILL_020",
-                    "5": "SOPRO_VIDA"
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "CHASER_SKILL_020"
                 },
                 "cl25": {
-                    "1": "ORACAO_BENCAOS",
-                    "2": "VITALIDADE_TENAZ",
-                    "3": "IMPETO",
-                    "4": "CHASER_SKILL_020",
-                    "5": "SOPRO_VIDA"
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "CHASER_SKILL_020"
                 }
             },
             "accessories": {
-                "1": "SOL",
+                "1": "",
                 "2": "DISCIPLINA",
                 "3": "LEI"
             },
             "accessories-pvp": {
-                "1": "CONGELANTE",
+                "1": "",
                 "2": "DISCIPLINA",
                 "3": "LEI"
             },
-            "acc-color": "azul",
-            "acc-pvp-color": "laranja",
-            "relic": "HEALER_CURSED",
-            "relic-pvp": "HEALER_CURSED",
+            "acc-color": "",
+            "acc-pvp-color": "",
+            "relic": "",
+            "relic-pvp": "",
             "priority": {
                 "PvE": "",
                 "PvP": "",
                 "WB": ""
             },
             "lb-skills": {
-                "1": "passiva",
-                "2": "S2"
+                "1": "",
+                "2": ""
             },
             "lb-skills-pvp": {
-                "1": "passiva",
-                "2": "S2"
+                "1": "",
+                "2": ""
             },
             "banner_id": "020"
         },
-        "enabled": "true"
+        "enabled": "false"
     },
     "ragna": {
         "build": {
-            "sets": "Green",
+            "sets": "",
             "enchantment": {
-                "white": "ATK FÍS",
-                "red": "VEL ATK",
-                "blue": "BASE ATK"
+                "white": "",
+                "red": "",
+                "blue": ""
             },
             "level-traits": {
-                "1": "CRIT",
-                "2": "BASE_ATK",
-                "3": "VEL_ATK",
-                "4": "DANO_VERDADEIRO"
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": ""
             },
             "transcend-traits": {
-                "1": "PODER_ILIM",
+                "1": "",
                 "2": "RECURSO_ILIM I",
                 "3": "RECURSO_ILIM II",
-                "4": "PVP_ILIM"
+                "4": ""
             },
             "chaser-traits": {
                 "cl20": {
-                    "1": "FORCA_EXORBITANTE",
-                    "2": "IMPETO",
-                    "3": "LACOS",
-                    "4": "CHASER_SKILL_021",
-                    "5": "ORACAO_BENCAOS"
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "CHASER_SKILL_021"
                 },
                 "cl25": {
-                    "1": "FORCA_EXORBITANTE",
-                    "2": "IMPETO",
-                    "3": "LACOS",
-                    "4": "CHASER_SKILL_021",
-                    "5": "ORACAO_BENCAOS"
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "CHASER_SKILL_021"
                 }
             },
             "accessories": {
-                "1": "SOL",
-                "2": "LAVA",
-                "3": "VENTANIA"
+                "1": "",
+                "2": "DISCIPLINA",
+                "3": "LEI"
             },
             "accessories-pvp": {
-                "1": "SOL",
-                "2": "LAVA",
-                "3": "VENTANIA"
+                "1": "",
+                "2": "DISCIPLINA",
+                "3": "LEI"
             },
-            "acc-color": "roxo",
-            "acc-pvp-color": "roxo",
-            "relic": "RANGER_CURSED",
-            "relic-pvp": "RANGER_CURSED",
+            "acc-color": "",
+            "acc-pvp-color": "",
+            "relic": "",
+            "relic-pvp": "",
             "priority": {
                 "PvE": "",
                 "PvP": "",
                 "WB": ""
             },
             "lb-skills": {
-                "1": "S2",
-                "2": "passiva"
+                "1": "",
+                "2": ""
             },
             "lb-skills-pvp": {
-                "1": "S2",
-                "2": "passiva"
+                "1": "",
+                "2": ""
             },
             "banner_id": "021"
         },
-        "enabled": "true"
+        "enabled": "false"
     },
     "tia": {
         "build": {
-            "sets": "Blue",
+            "sets": "",
             "enchantment": {
-                "white": "VIT MÁX",
-                "red": "CDR",
-                "blue": "RED DANO H"
+                "white": "",
+                "red": "",
+                "blue": ""
             },
             "level-traits": {
-                "1": "CURA_RECEBIDA",
-                "2": "CDR",
-                "3": "RED_DANO_ATK_BASICO",
-                "4": "RED_DANO_HAB"
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": ""
             },
             "transcend-traits": {
-                "1": "DEFESA_PVP_ILIM",
+                "1": "",
                 "2": "RECURSO_ILIM I",
                 "3": "RECURSO_ILIM II",
-                "4": "RESIST_HAB_ILIM"
+                "4": ""
             },
             "chaser-traits": {
                 "cl20": {
-                    "1": "ORACAO_BENCAOS",
-                    "2": "VITALIDADE_TENAZ",
-                    "3": "IMPETO",
-                    "4": "CHASER_SKILL_022",
-                    "5": "PROTECAO_DIVINA"
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "CHASER_SKILL_022"
                 },
                 "cl25": {
-                    "1": "ORACAO_BENCAOS",
-                    "2": "VITALIDADE_TENAZ",
-                    "3": "IMPETO",
-                    "4": "CHASER_SKILL_022",
-                    "5": "PROTECAO_DIVINA"
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "CHASER_SKILL_022"
                 }
             },
             "accessories": {
-                "1": "CONGELANTE",
+                "1": "",
                 "2": "DISCIPLINA",
                 "3": "LEI"
             },
             "accessories-pvp": {
-                "1": "CONGELANTE",
+                "1": "",
                 "2": "DISCIPLINA",
                 "3": "LEI"
             },
-            "acc-color": "azul",
-            "acc-pvp-color": "laranja",
-            "relic": "TANK_BLAZING",
-            "relic-pvp": "TANK_BLAZING",
+            "acc-color": "",
+            "acc-pvp-color": "",
+            "relic": "",
+            "relic-pvp": "",
             "priority": {
                 "PvE": "",
                 "PvP": "",
                 "WB": ""
             },
             "lb-skills": {
-                "1": "S2",
-                "2": "passiva"
+                "1": "",
+                "2": ""
             },
             "lb-skills-pvp": {
-                "1": "S2",
-                "2": "passiva"
+                "1": "",
+                "2": ""
             },
             "banner_id": "022"
         },
-        "enabled": "true"
+        "enabled": "false"
     },
     "veigas": {
         "build": {
-            "sets": "Orange",
+            "sets": "",
             "enchantment": {
-                "white": "ATK MÁG",
-                "red": "CDR/CRIT",
-                "blue": "AUM DANO H"
+                "white": "",
+                "red": "",
+                "blue": ""
             },
             "level-traits": {
-                "1": "SKILL_DMG_INC",
-                "2": "CRIT",
-                "3": "CDR",
-                "4": "DANO_VERDADEIRO"
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": ""
             },
             "transcend-traits": {
-                "1": "HAB_ILIM",
+                "1": "",
                 "2": "RECURSO_ILIM I",
                 "3": "RECURSO_ILIM II",
-                "4": "PODER_ILIM"
+                "4": ""
             },
             "chaser-traits": {
                 "cl20": {
-                    "1": "FORCA_EXORBITANTE",
-                    "2": "LACOS",
-                    "3": "IMPETO",
-                    "4": "CHASER_SKILL_023",
-                    "5": "SORTE_ABENCOADA"
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "CHASER_SKILL_023"
                 },
                 "cl25": {
-                    "1": "FORCA_EXORBITANTE",
-                    "2": "LACOS",
-                    "3": "IMPETO",
-                    "4": "CHASER_SKILL_023",
-                    "5": "SORTE_ABENCOADA"
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "CHASER_SKILL_023"
                 }
             },
             "accessories": {
-                "1": "SOL",
+                "1": "",
                 "2": "DISCIPLINA",
                 "3": "LEI"
             },
             "accessories-pvp": {
-                "1": "SOL",
+                "1": "",
                 "2": "DISCIPLINA",
                 "3": "LEI"
             },
-            "acc-color": "roxo",
-            "acc-pvp-color": "roxo",
-            "relic": "MAGE_CURSED",
-            "relic-pvp": "MAGE_CURSED",
+            "acc-color": "",
+            "acc-pvp-color": "",
+            "relic": "",
+            "relic-pvp": "",
             "priority": {
                 "PvE": "",
                 "PvP": "",
                 "WB": ""
             },
             "lb-skills": {
-                "1": "passiva",
-                "2": "S1"
+                "1": "",
+                "2": ""
             },
             "lb-skills-pvp": {
-                "1": "passiva",
-                "2": "S1"
+                "1": "",
+                "2": ""
             },
             "banner_id": "023"
         },
-        "enabled": "true"
+        "enabled": "false"
     },
     "hwarin": {
         "build": {
-            "sets": "Red",
+            "sets": "",
             "enchantment": {
-                "white": "ATK MÁG",
-                "red": "CDR",
-                "blue": "RED DANO H"
+                "white": "",
+                "red": "",
+                "blue": ""
             },
             "level-traits": {
-                "1": "CDR",
-                "2": "CRIT",
-                "3": "RED_DANO_ATK_BASICO",
-                "4": "RED_DANO_HAB"
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": ""
             },
             "transcend-traits": {
-                "1": "DEFESA_PVP_ILIM",
+                "1": "",
                 "2": "RECURSO_ILIM I",
                 "3": "RECURSO_ILIM II",
-                "4": "RESIST_HAB_ILIM"
+                "4": ""
             },
             "chaser-traits": {
                 "cl20": {
-                    "1": "ORACAO_BENCAOS",
-                    "2": "VITALIDADE_TENAZ",
-                    "3": "IMPETO",
-                    "4": "CHASER_SKILL_024",
-                    "5": "FORCA_EXORBITANTE"
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "CHASER_SKILL_024"
                 },
                 "cl25": {
-                    "1": "ORACAO_BENCAOS",
-                    "2": "VITALIDADE_TENAZ",
-                    "3": "IMPETO",
-                    "4": "CHASER_SKILL_024",
-                    "5": "FORCA_EXORBITANTE"
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "CHASER_SKILL_024"
                 }
             },
             "accessories": {
-                "1": "SOL",
+                "1": "",
                 "2": "DISCIPLINA",
                 "3": "LEI"
             },
             "accessories-pvp": {
-                "1": "CONGELANTE",
+                "1": "",
                 "2": "DISCIPLINA",
                 "3": "LEI"
             },
-            "acc-color": "azul",
-            "acc-pvp-color": "azul",
-            "relic": "HEALER_CURSED",
-            "relic-pvp": "HEALER_CURSED",
+            "acc-color": "",
+            "acc-pvp-color": "",
+            "relic": "",
+            "relic-pvp": "",
             "priority": {
                 "PvE": "",
                 "PvP": "",
                 "WB": ""
             },
             "lb-skills": {
-                "1": "S2",
-                "2": "passiva"
+                "1": "",
+                "2": ""
             },
             "lb-skills-pvp": {
-                "1": "passiva",
-                "2": "S2"
+                "1": "",
+                "2": ""
             },
             "banner_id": "024"
         },
-        "enabled": "true"
+        "enabled": "false"
     },
     "europa": {
         "build": {
@@ -2543,8 +2543,14 @@
                 "PvP": "",
                 "WB": ""
             },
-            "lb-skills": {},
-            "lb-skills-pvp": {},
+            "lb-skills": {
+                "1": "",
+                "2": ""
+            },
+            "lb-skills-pvp": {
+                "1": "",
+                "2": ""
+            },
             "banner_id": "1"
         },
         "enabled": "true"
@@ -2604,8 +2610,14 @@
                 "PvP": "",
                 "WB": ""
             },
-            "lb-skills": {},
-            "lb-skills-pvp": {},
+            "lb-skills": {
+                "1": "",
+                "2": ""
+            },
+            "lb-skills-pvp": {
+                "1": "",
+                "2": ""
+            },
             "banner_id": "2"
         },
         "enabled": "true"
@@ -2667,8 +2679,14 @@
                 "PvP": "",
                 "WB": ""
             },
-            "lb-skills": {},
-            "lb-skills-pvp": {},
+            "lb-skills": {
+                "1": "",
+                "2": ""
+            },
+            "lb-skills-pvp": {
+                "1": "",
+                "2": ""
+            },
             "banner_id": "3"
         },
         "enabled": "true"
@@ -2728,8 +2746,14 @@
                 "PvP": "",
                 "WB": ""
             },
-            "lb-skills": {},
-            "lb-skills-pvp": {},
+            "lb-skills": {
+                "1": "",
+                "2": ""
+            },
+            "lb-skills-pvp": {
+                "1": "",
+                "2": ""
+            },
             "banner_id": "4"
         },
         "enabled": "true"
@@ -2791,8 +2815,14 @@
                 "PvP": "",
                 "WB": ""
             },
-            "lb-skills": {},
-            "lb-skills-pvp": {},
+            "lb-skills": {
+                "1": "",
+                "2": ""
+            },
+            "lb-skills-pvp": {
+                "1": "",
+                "2": ""
+            },
             "banner_id": "5"
         },
         "enabled": "true"
@@ -2854,8 +2884,14 @@
                 "PvP": "",
                 "WB": ""
             },
-            "lb-skills": {},
-            "lb-skills-pvp": {},
+            "lb-skills": {
+                "1": "",
+                "2": ""
+            },
+            "lb-skills-pvp": {
+                "1": "",
+                "2": ""
+            },
             "banner_id": "6"
         },
         "enabled": "true"
@@ -2915,8 +2951,14 @@
                 "PvP": "",
                 "WB": ""
             },
-            "lb-skills": {},
-            "lb-skills-pvp": {},
+            "lb-skills": {
+                "1": "",
+                "2": ""
+            },
+            "lb-skills-pvp": {
+                "1": "",
+                "2": ""
+            },
             "banner_id": "7"
         },
         "enabled": "true"
@@ -2976,8 +3018,14 @@
                 "PvP": "",
                 "WB": ""
             },
-            "lb-skills": {},
-            "lb-skills-pvp": {},
+            "lb-skills": {
+                "1": "",
+                "2": ""
+            },
+            "lb-skills-pvp": {
+                "1": "",
+                "2": ""
+            },
             "banner_id": "8"
         },
         "enabled": "true"
@@ -3039,8 +3087,14 @@
                 "PvP": "",
                 "WB": ""
             },
-            "lb-skills": {},
-            "lb-skills-pvp": {},
+            "lb-skills": {
+                "1": "",
+                "2": ""
+            },
+            "lb-skills-pvp": {
+                "1": "",
+                "2": ""
+            },
             "banner_id": "9"
         },
         "enabled": "true"
@@ -3100,8 +3154,14 @@
                 "PvP": "",
                 "WB": ""
             },
-            "lb-skills": {},
-            "lb-skills-pvp": {},
+            "lb-skills": {
+                "1": "",
+                "2": ""
+            },
+            "lb-skills-pvp": {
+                "1": "",
+                "2": ""
+            },
             "banner_id": "10"
         },
         "enabled": "true"
@@ -3161,8 +3221,14 @@
                 "PvP": "",
                 "WB": ""
             },
-            "lb-skills": {},
-            "lb-skills-pvp": {},
+            "lb-skills": {
+                "1": "",
+                "2": ""
+            },
+            "lb-skills-pvp": {
+                "1": "",
+                "2": ""
+            },
             "banner_id": "11"
         },
         "enabled": "true"
@@ -3222,8 +3288,14 @@
                 "PvP": "",
                 "WB": ""
             },
-            "lb-skills": {},
-            "lb-skills-pvp": {},
+            "lb-skills": {
+                "1": "",
+                "2": ""
+            },
+            "lb-skills-pvp": {
+                "1": "",
+                "2": ""
+            },
             "banner_id": "12"
         },
         "enabled": "true"
@@ -3283,8 +3355,14 @@
                 "PvP": "",
                 "WB": ""
             },
-            "lb-skills": {},
-            "lb-skills-pvp": {},
+            "lb-skills": {
+                "1": "",
+                "2": ""
+            },
+            "lb-skills-pvp": {
+                "1": "",
+                "2": ""
+            },
             "banner_id": "13"
         },
         "enabled": "true"
@@ -3344,8 +3422,14 @@
                 "PvP": "",
                 "WB": ""
             },
-            "lb-skills": {},
-            "lb-skills-pvp": {},
+            "lb-skills": {
+                "1": "",
+                "2": ""
+            },
+            "lb-skills-pvp": {
+                "1": "",
+                "2": ""
+            },
             "banner_id": "13"
         },
         "enabled": "false"
