@@ -30,6 +30,10 @@ module.exports = {
 				'lire', 'harpe', 'lass', 'jin', 'rin',
 				'rufus', 'calisto', 'arme', 'zero', 'io',
 				'cindy', 'sieghart', 'asin', 'ley', 'kanavan',
+				'lime', 'ragna', 'tia', 'veigas', 'hwarin',
+				'europa', 'werner', 'myst', 'amy', 'edel',
+				'nellia', 'grandiel', 'ryan', 'dio', 'ganimede',
+				'decane',
 				'sol', 'exelesis', 'exarme', 'exlire', 'exronan', 'exmari', 'examy',
 				'exlime', 'exedel', 'exjin', 'exley', 'exharpe', 'exserdin',
 				'exsieghart'];
