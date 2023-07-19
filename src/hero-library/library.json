@@ -137,7 +137,7 @@
     },
     "lapis": {
         "build": {
-            "sets": "Orange",
+            "sets": "Pink",
             "enchantment": {
                 "white": "ATK FÍS",
                 "red": "CDR/CRIT",
@@ -411,7 +411,7 @@
     },
     "harpe": {
         "build": {
-            "sets": "Orange",
+            "sets": "Pink",
             "enchantment": {
                 "white": "ATK MÁG",
                 "red": "CDR/CRIT",
@@ -478,7 +478,7 @@
     },
     "lass": {
         "build": {
-            "sets": "Orange",
+            "sets": "Green",
             "enchantment": {
                 "white": "ATK FÍS",
                 "red": "CRIT",
@@ -547,7 +547,7 @@
     },
     "jin": {
         "build": {
-            "sets": "Orange",
+            "sets": "Blue",
             "enchantment": {
                 "white": "VIT MÁX",
                 "red": "CRIT",
@@ -614,7 +614,7 @@
     },
     "rin": {
         "build": {
-            "sets": "Blue",
+            "sets": "Pink",
             "enchantment": {
                 "white": "ATK MÁG",
                 "red": "CDR",
@@ -748,7 +748,7 @@
     },
     "calisto": {
         "build": {
-            "sets": "Blue",
+            "sets": "Orange",
             "enchantment": {
                 "white": "ATK FÍS",
                 "red": "CDR",
@@ -882,7 +882,7 @@
     },
     "zero": {
         "build": {
-            "sets": "Orange",
+            "sets": "Pink",
             "enchantment": {
                 "white": "VIT MÁX",
                 "red": "CRIT",
@@ -1083,7 +1083,7 @@
     },
     "sieghart": {
         "build": {
-            "sets": "Blue",
+            "sets": "Pink",
             "enchantment": {
                 "white": "ATK FÍS",
                 "red": "CDR",
@@ -1150,7 +1150,7 @@
     },
     "asin": {
         "build": {
-            "sets": "Blue",
+            "sets": "Pink",
             "enchantment": {
                 "white": "VIT MÁX",
                 "red": "CDR",
@@ -1217,7 +1217,7 @@
     },
     "ley": {
         "build": {
-            "sets": "Orange",
+            "sets": "Green",
             "enchantment": {
                 "white": "ATK MÁG",
                 "red": "CRIT",
@@ -1351,7 +1351,7 @@
     },
     "lime": {
         "build": {
-            "sets": "Blue",
+            "sets": "Pink",
             "enchantment": {
                 "white": "ATK MÁG",
                 "red": "CDR",
@@ -1418,7 +1418,7 @@
     },
     "ragna": {
         "build": {
-            "sets": "Green",
+            "sets": "Pink",
             "enchantment": {
                 "white": "ATK FÍS",
                 "red": "VEL ATK",
@@ -1552,7 +1552,7 @@
     },
     "veigas": {
         "build": {
-            "sets": "Orange",
+            "sets": "Green",
             "enchantment": {
                 "white": "ATK MÁG",
                 "red": "CDR/CRIT",
@@ -1619,7 +1619,7 @@
     },
     "hwarin": {
         "build": {
-            "sets": "Red",
+            "sets": "Pink",
             "enchantment": {
                 "white": "ATK MÁG",
                 "red": "CDR",
@@ -1686,7 +1686,7 @@
     },
     "europa": {
         "build": {
-            "sets": "Orange",
+            "sets": "Pink",
             "enchantment": {
                 "white": "ATK FÍS",
                 "red": "CDR/CRIT",
@@ -1820,7 +1820,7 @@
     },
     "myst": {
         "build": {
-            "sets": "Blue",
+            "sets": "Pink",
             "enchantment": {
                 "white": "VIT MÁX",
                 "red": "CDR",
@@ -2551,7 +2551,7 @@
     },
     "exarme": {
         "build": {
-            "sets": "Blue",
+            "sets": "Pink",
             "enchantment": {
                 "white": "ATK MÁG",
                 "red": "CDR",
@@ -2612,7 +2612,7 @@
     },
     "exlire": {
         "build": {
-            "sets": "Orange",
+            "sets": "Blue",
             "enchantment": {
                 "white": "ATK FÍS",
                 "red": "CRIT",
@@ -2675,7 +2675,7 @@
     },
     "exronan": {
         "build": {
-            "sets": "Orange",
+            "sets": "Green",
             "enchantment": {
                 "white": "ATK MÁG",
                 "red": "CDR",
@@ -2736,7 +2736,7 @@
     },
     "exmari": {
         "build": {
-            "sets": "Green",
+            "sets": "Mari",
             "enchantment": {
                 "white": "ATK FÍS",
                 "red": "VEL ATK",
@@ -2923,7 +2923,7 @@
     },
     "exedel": {
         "build": {
-            "sets": "Orange",
+            "sets": "Green",
             "enchantment": {
                 "white": "ATK FÍS",
                 "red": "CRIT",
@@ -3108,7 +3108,7 @@
     },
     "exharpe": {
         "build": {
-            "sets": "Blue",
+            "sets": "Pink",
             "enchantment": {
                 "white": "VIT MÁX",
                 "red": "CDR",
@@ -3169,7 +3169,7 @@
     },
     "exserdin": {
         "build": {
-            "sets": "Orange",
+            "sets": "Green",
             "enchantment": {
                 "white": "ATK MÁG",
                 "red": "CDR",

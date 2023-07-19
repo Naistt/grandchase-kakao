@@ -11,12 +11,12 @@ module.exports = {
 			option.setName('personagem')
 				.setDescription('Personagem a ter sua build consultada.')
 				.setRequired(true)
-				.setAutocomplete(true))
-		.addStringOption(option =>
-			option.setName('cl')
-				.setDescription('CL20 ou CL25.')
-				.setRequired(false)
 				.setAutocomplete(true)),
+		// .addStringOption(option =>
+		// 	option.setName('cl')
+		// 		.setDescription('CL20 ou CL25.')
+		// 		.setRequired(false)
+		// 		.setAutocomplete(true)),
 	async autocomplete(interaction) {
 		// handle the autocompletion response
 
