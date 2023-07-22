@@ -3348,7 +3348,7 @@
             "lb-skills-pvp": {},
             "banner_id": "14"
         },
-        "enabled": "false"
+        "enabled": "true"
     },
     "exlass": {
         "build": {
@@ -3409,7 +3409,7 @@
             "lb-skills-pvp": {},
             "banner_id": "15"
         },
-        "enabled": "false"
+        "enabled": "true"
     },
     "exlapis": {
         "build": {
