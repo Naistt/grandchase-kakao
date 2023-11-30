@@ -1,0 +1,279 @@
+{
+    "anel": {
+        "sol": {
+            "cor": {
+                "roxo": {
+                    "1": "Elesis",
+                    "2": "Lire(T)",
+                    "3": "Arme",
+                    "4": "Lass",
+                    "5": "Ronan(T)",
+                    "6": "Amy(T)",
+                    "7": "Jin",
+                    "8": "Jin(T)",
+                    "9": "Mari",
+                    "10": "Mari(T)",
+                    "11": "Lupus",
+                    "12": "Edel(T)",
+                    "13": "Veigas",
+                    "14": "Grandiel",
+                    "15": "Canaban",
+                    "16": "Canaban(T)",
+                    "17": "Serdin(T)",
+                    "18": "Werner",
+                    "19": "Europa",
+                    "20": "Lapis",
+                    "21": "Lapis(T)",
+                    "22": "Io",
+                    "23": "Harpe",
+                    "24": "Ragna",
+                    "25": "Ganimedes",
+                    "26": "Decane",
+                    "27": "Sol",
+                    "28": "Ai",
+                    "29": "Mayden"
+                },
+                "laranja": {
+                    "1": "Arme(T)",
+                    "2": "Zero",
+                    "3": "Lin",
+                    "4": "Nellia",
+                    "5": "Calisto",
+                    "6": "Cindy"
+                },
+                "azul": { }
+            }
+        },
+        "congelante": {
+            "cor": {
+                "roxo": { },
+                "laranja": {
+                    "1": "Elesis(T)",
+                    "2": "Ryan",
+                    "3": "Ronan",
+                    "4": "Sieghart",
+                    "5": "Sieghart(T)",
+                    "6": "Dio",
+                    "7": "Rey(T)",
+                    "8": "Asin",
+                    "9": "Lime",
+                    "10": "Lime(T)",
+                    "12": "Tia",
+                    "13": "Harpe(T)",
+                    "14": "Myst"
+                },
+                "azul": {
+                    "1": "Hwarin"
+                }
+            }
+        },
+        "vento": {
+            "cor": {
+                "roxo": {
+                    "1": "Lire",
+                    "2": "Lass(T)",
+                    "3": "Rey",
+                    "4": "Edel",
+                    "5": "Serdin"
+                },
+                "laranja": { },
+                "azul": { }
+            }
+        },
+        "árvore": {
+            "cor": {
+                "roxo": {
+                    "1": "Amy",
+                    "2": "Io(T)"
+                },
+                "laranja": { },
+                "azul": { }
+            }
+        },
+        "enabled": "true"
+    },
+    "colar": {
+        "disciplina": {
+            "cor": {
+                "roxo": {
+                    "1": "Elesis",
+                    "2": "Lire(T)",
+                    "3": "Arme",
+                    "4": "Ronan(T)",
+                    "5": "Amy(T)",
+                    "6": "Jin(T)",
+                    "7": "Edel",
+                    "8": "Veigas",
+                    "9": "Grandiel",
+                    "10": "Canaban",
+                    "11": "Canaban(T)",
+                    "12": "Serdin",
+                    "13": "Serdin(T)",
+                    "14": "Werner",
+                    "15": "Lapis",
+                    "16": "Lapis(T)",
+                    "17": "Io(T)",
+                    "18": "Harpe",
+                    "19": "Ganimedes",
+                    "20": "Sol",
+                    "21": "Ai",
+                    "22": "Mayden"
+                },
+                "laranja": {
+                    "1": "Elesis(T)",
+                    "2": "Arme(T)",
+                    "3": "Ryan",
+                    "4": "Ronan",
+                    "5": "Sieghart",
+                    "6": "Sieghart(T)",
+                    "7": "Dio",
+                    "8": "Rey(T)",
+                    "9": "Lin",
+                    "10": "Asin",
+                    "11": "Lime",
+                    "12": "Lime(T)",
+                    "13": "Tia",
+                    "14": "Harpe(T)",
+                    "15": "Calisto",
+                    "16": "Cindy",
+                    "17": "Myst"
+                },
+                "azul": {
+                    "1": "Hwarin"
+                }
+            }
+        },
+        "lava": {
+            "cor": {
+                "roxo": {
+                    "1": "Lire",
+                    "2": "Lass",
+                    "3": "Lass(T)",
+                    "4": "Jin",
+                    "5": "Mari",
+                    "6": "Mari(T)",
+                    "7": "Rey",
+                    "8": "Lupus",
+                    "9": "Edel(T)",
+                    "10": "Europa",
+                    "11": "Io",
+                    "12": "Ragna",
+                    "13": "Decane"
+                },
+                "laranja": {
+                    "1": "Zero",
+                    "2": "Nellia"
+                },
+                "azul": { }
+            }
+        },
+        "árvore": {
+            "cor": {
+                "roxo": {
+                    "1": "Amy"
+                },
+                "laranja": { },
+                "azul": { }
+            }
+        },
+        "guardião": {
+            "cor": {
+                "roxo": { },
+                "laranja": { },
+                "azul": { }
+            }
+        },
+        "enabled": "true"
+    },
+    "brinco": {
+        "lei": {
+            "cor": {
+                "roxo": {
+                    "1": "Elesis",
+                    "2": "Lire(T)",
+                    "3": "Arme",
+                    "4": "Lass",
+                    "5": "Ronan(T)",
+                    "6": "Amy",
+                    "7": "Amy(T)",
+                    "8": "Jin",
+                    "9": "Jin(T)",
+                    "10": "Mari",
+                    "11": "Mari(T)",
+                    "12": "Veigas",
+                    "13": "Grandiel",
+                    "14": "Canaban",
+                    "15": "Canaban(T)",
+                    "16": "Serdin(T)",
+                    "17": "Werner",
+                    "18": "Europa",
+                    "19": "Lapis",
+                    "20": "Lapis(T)",
+                    "21": "Io(T)",
+                    "22": "Harpe",
+                    "23": "Ganimedes",
+                    "24": "Sol",
+                    "25": "Ai",
+                    "26": "Mayden"
+                },
+                "laranja": {
+                    "1": "Elesis(T)",
+                    "2": "Arme(T)",
+                    "3": "Ryan",
+                    "4": "Ronan",
+                    "5": "Sieghart",
+                    "6": "Sieghart(T)",
+                    "7": "Dio",
+                    "8": "Rey(T)",
+                    "9": "Zero",
+                    "10": "Nellia",
+                    "11": "Lin",
+                    "12": "Asin",
+                    "13": "Lime",
+                    "14": "Lime(T)",
+                    "15": "Tia",
+                    "16": "Harpe(T)",
+                    "17": "Calisto",
+                    "18": "Cindy",
+                    "19": "Myst"
+                },
+                "azul": {
+                    "1": "Hwarin"
+                }
+            }
+        },
+        "ventania": {
+            "cor": {
+                "roxo": {
+                    "1": "Lire",
+                    "2": "Lass(T)",
+                    "3": "Rey",
+                    "4": "Lupus",
+                    "5": "Edel",
+                    "6": "Edel(T)",
+                    "7": "Serdin",
+                    "8": "Io",
+                    "9": "Ragna",
+                    "10": "Decane"
+                },
+                "laranja": { },
+                "azul": { }
+            }
+        },
+        "árvore": {
+            "cor": {
+                "roxo": { },
+                "laranja": { },
+                "azul": { }
+            }
+        },
+        "frio": {
+            "cor": {
+                "roxo": { },
+                "laranja": { },
+                "azul": { }
+            }
+        },
+        "enabled": "true"
+    }
+}
