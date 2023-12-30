@@ -14,24 +14,27 @@
                     "9": "Mari",
                     "10": "Mari(T)",
                     "11": "Lupus",
-                    "12": "Edel(T)",
-                    "13": "Veigas",
-                    "14": "Grandiel",
-                    "15": "Canaban",
-                    "16": "Canaban(T)",
-                    "17": "Serdin(T)",
-                    "18": "Werner",
-                    "19": "Europa",
-                    "20": "Lapis",
-                    "21": "Lapis(T)",
-                    "22": "Io",
-                    "23": "Harpe",
-                    "24": "Ragna",
-                    "25": "Ganimedes",
-                    "26": "Decane",
-                    "27": "Sol",
-                    "28": "Ai",
-                    "29": "Mayden"
+                    "12": "Lupus(T)",
+                    "13": "Edel(T)",
+                    "14": "Veigas",
+                    "15": "Grandiel",
+                    "16": "Canaban",
+                    "17": "Canaban(T)",
+                    "18": "Serdin(T)",
+                    "19": "Werner",
+                    "20": "Werner(T)",
+                    "21": "Hwarin(T)",
+                    "22": "Europa",
+                    "23": "Europa(T)",
+                    "24": "Lapis",
+                    "25": "Lapis(T)",
+                    "26": "Io",
+                    "27": "Harpe",
+                    "28": "Decane",
+                    "29": "Ragna",
+                    "30": "Ganimedes",
+                    "31": "Ai",
+                    "32": "Mayden"
                 },
                 "laranja": {
                     "1": "Arme(T)",
@@ -41,12 +44,12 @@
                     "5": "Calisto",
                     "6": "Cindy"
                 },
-                "azul": { }
+                "azul": {}
             }
         },
         "congelante": {
             "cor": {
-                "roxo": { },
+                "roxo": {},
                 "laranja": {
                     "1": "Elesis(T)",
                     "2": "Ryan",
@@ -60,7 +63,8 @@
                     "10": "Lime(T)",
                     "12": "Tia",
                     "13": "Harpe(T)",
-                    "14": "Myst"
+                    "14": "Ragna(T)",
+                    "15": "Myst"
                 },
                 "azul": {
                     "1": "Hwarin"
@@ -76,18 +80,19 @@
                     "4": "Edel",
                     "5": "Serdin"
                 },
-                "laranja": { },
-                "azul": { }
+                "laranja": {},
+                "azul": {}
             }
         },
         "árvore": {
             "cor": {
                 "roxo": {
                     "1": "Amy",
-                    "2": "Io(T)"
+                    "2": "Io(T)",
+                    "3": "Sol"
                 },
-                "laranja": { },
-                "azul": { }
+                "laranja": {},
+                "azul": {}
             }
         },
         "enabled": "true"
@@ -102,22 +107,22 @@
                     "4": "Ronan(T)",
                     "5": "Amy(T)",
                     "6": "Jin(T)",
-                    "7": "Edel",
-                    "8": "Veigas",
-                    "9": "Grandiel",
-                    "10": "Canaban",
-                    "11": "Canaban(T)",
-                    "12": "Serdin",
-                    "13": "Serdin(T)",
-                    "14": "Werner",
-                    "15": "Lapis",
-                    "16": "Lapis(T)",
-                    "17": "Io(T)",
-                    "18": "Harpe",
-                    "19": "Ganimedes",
-                    "20": "Sol",
+                    "7": "Lupus(T)",
+                    "8": "Edel",
+                    "9": "Veigas",
+                    "10": "Grandiel",
+                    "11": "Canaban",
+                    "12": "Canaban(T)",
+                    "13": "Serdin",
+                    "14": "Serdin(T)",
+                    "15": "Werner",
+                    "16": "Werner(T)",
+                    "17": "Hwarin(T)",
+                    "18": "Lapis",
+                    "19": "Harpe",
+                    "20": "Ganimedes",
                     "21": "Ai",
-                    "22": "Mayden"
+                    "22": "Mayden"                    
                 },
                 "laranja": {
                     "1": "Elesis(T)",
@@ -136,7 +141,8 @@
                     "14": "Harpe(T)",
                     "15": "Calisto",
                     "16": "Cindy",
-                    "17": "Myst"
+                    "17": "Ragna(T)",
+                    "18": "Myst"
                 },
                 "azul": {
                     "1": "Hwarin"
@@ -156,31 +162,34 @@
                     "8": "Lupus",
                     "9": "Edel(T)",
                     "10": "Europa",
-                    "11": "Io",
-                    "12": "Ragna",
-                    "13": "Decane"
+                    "11": "Europa(T)",
+                    "12": "Lapis(T)",
+                    "13": "Ragna",
+                    "14": "Decane"
                 },
                 "laranja": {
                     "1": "Zero",
                     "2": "Nellia"
                 },
-                "azul": { }
+                "azul": {}
             }
         },
         "árvore": {
             "cor": {
                 "roxo": {
-                    "1": "Amy"
+                    "1": "Amy",
+                    "2": "Io(T)",
+                    "3": "Sol"
                 },
-                "laranja": { },
-                "azul": { }
+                "laranja": {},
+                "azul": {}
             }
         },
         "guardião": {
             "cor": {
-                "roxo": { },
-                "laranja": { },
-                "azul": { }
+                "roxo": {},
+                "laranja": {},
+                "azul": {}
             }
         },
         "enabled": "true"
@@ -200,21 +209,25 @@
                     "9": "Jin(T)",
                     "10": "Mari",
                     "11": "Mari(T)",
-                    "12": "Veigas",
-                    "13": "Grandiel",
-                    "14": "Canaban",
-                    "15": "Canaban(T)",
-                    "16": "Serdin(T)",
-                    "17": "Werner",
-                    "18": "Europa",
-                    "19": "Lapis",
-                    "20": "Lapis(T)",
-                    "21": "Io(T)",
-                    "22": "Harpe",
-                    "23": "Ganimedes",
-                    "24": "Sol",
-                    "25": "Ai",
-                    "26": "Mayden"
+                    "12": "Lupus(T)",
+                    "13": "Veigas",
+                    "14": "Grandiel",
+                    "15": "Canaban",
+                    "16": "Canaban(T)",
+                    "17": "Serdin(T)",
+                    "18": "Werner",
+                    "19": "Werner(T)",
+                    "20": "Hwarin(T)",
+                    "21": "Europa",
+                    "22": "Europa(T)",
+                    "23": "Lapis",
+                    "24": "Lapis(T)",
+                    "25": "Io(T)",
+                    "26": "Harpe",
+                    "27": "Ganimedes",
+                    "28": "Sol",
+                    "29": "Ai",
+                    "30": "Mayden"
                 },
                 "laranja": {
                     "1": "Elesis(T)",
@@ -235,7 +248,8 @@
                     "16": "Harpe(T)",
                     "17": "Calisto",
                     "18": "Cindy",
-                    "19": "Myst"
+                    "19": "Ragna(T)",
+                    "20": "Myst"
                 },
                 "azul": {
                     "1": "Hwarin"
@@ -256,22 +270,22 @@
                     "9": "Ragna",
                     "10": "Decane"
                 },
-                "laranja": { },
-                "azul": { }
+                "laranja": {},
+                "azul": {}
             }
         },
         "árvore": {
             "cor": {
-                "roxo": { },
-                "laranja": { },
-                "azul": { }
+                "roxo": {},
+                "laranja": {},
+                "azul": {}
             }
         },
         "frio": {
             "cor": {
-                "roxo": { },
-                "laranja": { },
-                "azul": { }
+                "roxo": {},
+                "laranja": {},
+                "azul": {}
             }
         },
         "enabled": "true"
