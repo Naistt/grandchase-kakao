@@ -7,13 +7,13 @@ module.exports = {
 		.setName('acessorio')
 		.setDescription('Exibe informações sobre acessórios do jogo.')
 		.addStringOption(option =>
-			option.setName('nome')
-				.setDescription('Nome do acessório.')
+			option.setName('tipo')
+				.setDescription('Tipo do acessório.')
 				.setRequired(true)
 				.setAutocomplete(true))
 		.addStringOption(option =>
-			option.setName('tipo')
-				.setDescription('Tipo do acessório.')
+			option.setName('nome')
+				.setDescription('Nome do acessório.')
 				.setRequired(true)
 				.setAutocomplete(true))
         .addStringOption(option =>
@@ -75,7 +75,7 @@ module.exports = {
 	async execute(interaction) {
         await interaction.deferReply();
 
-		const rawAccData = fs.readFileSync('./src/acessorios-biblioteca/acessorios.json');
+		const rawAccData = fs.readFileSync('./src/equipamentos/acessorios.json');
 		const accDataJSON = JSON.parse(rawAccData);
 		const inputAcc = accDataJSON[interaction.options.getString('tipo').toLowerCase()];
         const tipoAcc = interaction.options.getString('tipo').toLowerCase();
@@ -83,41 +83,39 @@ module.exports = {
         const corAcc = interaction.options.getString('cor').toLowerCase();
 
         const avatar = fs.readFileSync('./src/img/IconHero-Decanee-Hyper.png');
-        // console.log(inputAcc);
 
 		if (inputAcc === undefined || inputAcc === null) {
-			await interaction.reply({ content: 'Acessório ainda não adicionado à biblioteca.', ephemeral: true });
+			await interaction.editReply({ content: 'Acessório ainda não adicionado à biblioteca.', ephemeral: true });
 			return;
 		}
 
 		if (inputAcc["enabled"] === undefined || inputAcc["enabled"] === null || inputAcc["enabled"] === 'false') {
-			await interaction.reply({ content: 'Acessório desabilitado temporariamente.', ephemeral: true });
+			await interaction.editReply({ content: 'Acessório desabilitado temporariamente.', ephemeral: true });
 			return;
 		}
 		
 		try {
 
 
-
-            // await interaction.editReply("");
-            // console.log(inputAcc[nomeAcc]["cor"][corAcc]);
             let arr = inputAcc[nomeAcc]["cor"][corAcc];
-            // console.log(arr.length);
-			console.log(Object.keys(arr).length);
+			
 			if (Object.keys(arr).length == undefined || Object.keys(arr).length < 1) {
 				await interaction.editReply("Esse acessório não serve em ninguém. Caso acredite que esteja desatualizado, entre em contato com <@197514134349283328>.");
 				return;
 			}
 			else {
-				for (let i = 0; i < Object.keys(arr).length; i++) {
+				let personagens = "";
+				for (let i = 0; i <= Object.keys(arr).length - 1; i++) {
 					// console.log(Object.values(arr));
-					await interaction.editReply('Este acessório é utilizado nos personagens: ' + Object.values(arr) + (i == Object.keys(arr).length ? ', ' : "."));
+					personagens += Object.values(arr)[i] + (i == Object.keys(arr).length - 1 ? '.' : ', ');
+					
 				}
+				await interaction.editReply('Este acessório é utilizado nos personagens: ' + personagens);
 			}
             
 		}
 		catch (error) {
-			console.log(`Houve um erro. Linha 96.`);
+			console.log(`Houve um erro. Linha 118.`);
 			console.log(error);
 			await interaction.editReply("Houve um erro ao carregar as informações do acessório. Entre em contato com <@197514134349283328>.");
 			return;

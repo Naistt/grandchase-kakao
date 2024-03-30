@@ -34,7 +34,9 @@
                     "29": "Ragna",
                     "30": "Ganimedes",
                     "31": "Ai",
-                    "32": "Mayden"
+                    "32": "Mayden",
+                    "33": "Elesis(S)",
+                    "34": "Bastet"
                 },
                 "laranja": {
                     "1": "Arme(T)",
@@ -64,7 +66,8 @@
                     "12": "Tia",
                     "13": "Harpe(T)",
                     "14": "Ragna(T)",
-                    "15": "Myst"
+                    "15": "Myst",
+                    "16": "Calisto(T)"
                 },
                 "azul": {
                     "1": "Hwarin"
@@ -122,7 +125,9 @@
                     "19": "Harpe",
                     "20": "Ganimedes",
                     "21": "Ai",
-                    "22": "Mayden"                    
+                    "22": "Mayden",
+                    "23": "Elesis(S)",
+                    "24": "Bastet"
                 },
                 "laranja": {
                     "1": "Elesis(T)",
@@ -142,7 +147,8 @@
                     "15": "Calisto",
                     "16": "Cindy",
                     "17": "Ragna(T)",
-                    "18": "Myst"
+                    "18": "Myst",
+                    "19": "Calisto(T)"
                 },
                 "azul": {
                     "1": "Hwarin"
@@ -227,7 +233,9 @@
                     "27": "Ganimedes",
                     "28": "Sol",
                     "29": "Ai",
-                    "30": "Mayden"
+                    "30": "Mayden",
+                    "31": "Elesis(S)",
+                    "32": "Bastet"
                 },
                 "laranja": {
                     "1": "Elesis(T)",
@@ -249,7 +257,8 @@
                     "17": "Calisto",
                     "18": "Cindy",
                     "19": "Ragna(T)",
-                    "20": "Myst"
+                    "20": "Myst",
+                    "21": "Calisto(T)"
                 },
                 "azul": {
                     "1": "Hwarin"
@@ -288,6 +297,6 @@
                 "azul": {}
             }
         },
-        "enabled": "true"
+        "enabled": "false"
     }
 }

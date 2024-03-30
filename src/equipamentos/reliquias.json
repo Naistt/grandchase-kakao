@@ -1,0 +1,101 @@
+{
+	"flamejante": {
+        "guardião": {
+            "1": "Elesis(T)",
+            "2": "Ryan",
+            "3": "Ronan",
+            "4": "Sieghart(T)",
+            "5": "Harpe(T)",
+            "6": "Calisto(T)",
+            "7": "Tia",
+            "8": "Myst"
+        },
+		"guerreiro": {
+            "1": "Sieghart",
+            "2": "Dio",
+            "3": "Edel",
+            "4": "Europa"
+        },
+		"mago": {
+            "1": "Rey"
+        },
+		"atirador": {
+            "1": "Europa(T)",
+            "2": "Bastet"
+        },
+		"sacerdote": {
+            "1": "Amy",
+            "2": "Rey(T)",
+            "3": "Serdin"
+        },
+        "enabled": "true"
+	},
+	"congelante": {
+        "guardião": {},
+		"guerreiro": {
+            "1": "Elesis(S)"
+        },
+		"mago": {},
+		"atirador": {},
+		"sacerdote": {},
+        "enabled": "true"
+	},
+	"amaldiçoada": {
+        "guardião": {
+            "1": "Jin",
+            "2": "Zero",
+            "3": "Asin",
+            "4": "Lime(T)"
+        },
+		"guerreiro": {
+            "1": "Elesis",
+            "2": "Lire(T)",
+            "3": "Lass",
+            "4": "Amy(T)",
+            "5": "Jin(T)",
+            "6": "Canaban",
+            "7": "Werner(T)",
+            "8": "Lapis(T)",
+            "9": "Calisto",
+            "10": "Sol"
+        },
+		"mago": {
+            "1": "Arme",
+            "2": "Ronan(T)",
+            "3": "Mari",
+            "4": "Lupus(T)",
+            "5": "Veigas",
+            "6": "Serdin(T)",
+            "7": "Nellia",
+            "8": "Hwarin(T)",
+            "9": "Harpe",
+            "10": "Ganimedes",
+            "11": "Ai"
+        },
+		"atirador": {
+            "1": "Lire",
+            "2": "Lass(T)",
+            "3": "Mari(T)",
+            "4": "Lupus",
+            "5": "Edel(T)",
+            "6": "Werner",
+            "7": "Lapis",
+            "8": "Io",
+            "9": "Ragna",
+            "10": "Decane",
+            "11": "Mayden"
+        },
+		"sacerdote": {
+            "1": "Arme(T)",
+            "2": "Lin",
+            "3": "Lime",
+            "4": "Grandiel",
+            "5": "Canaban(T)",
+            "6": "Hwarin",
+            "7": "Io(T)",
+            "8": "Cindy",
+            "9": "Ragna(T)"
+        },
+        "enabled": "false"
+	}
+}
