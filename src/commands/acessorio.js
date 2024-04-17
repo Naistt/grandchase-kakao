@@ -82,8 +82,6 @@ module.exports = {
         const nomeAcc = interaction.options.getString('nome').toLowerCase();
         const corAcc = interaction.options.getString('cor').toLowerCase();
 
-        const avatar = fs.readFileSync('./src/img/IconHero-Decanee-Hyper.png');
-
 		if (inputAcc === undefined || inputAcc === null) {
 			await interaction.editReply({ content: 'Acessório ainda não adicionado à biblioteca.', ephemeral: true });
 			return;
@@ -95,8 +93,6 @@ module.exports = {
 		}
 		
 		try {
-
-
             let arr = inputAcc[nomeAcc]["cor"][corAcc];
 			
 			if (Object.keys(arr).length == undefined || Object.keys(arr).length < 1) {
